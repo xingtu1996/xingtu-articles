@@ -77,11 +77,9 @@ diagram: 配置清单表 + Concise 前后对比示意（表格/截图）
 
 ---
 
-### 平台微调（PUB-004 禁通稿）
+### 平台微调（多平台差异化）
 - **小红书**：清单体图卡，"抄作业 4 条"直接可做收藏贴。
 - **掘金**：保留配置表 + 多模型适配，标题《Claude Code 省 token 配置清单：Concise + 压缩阈值》。
 - **公众号**：故事化"我怎么发现账单变瘦的"，深度一点。
 
-### 脱敏确认
-- 纯公开配置能力，无内部数据；"我的实测决策"为个人实践，可发布。
-- 来源：[Output styles](https://code.claude.com/docs/en/output-styles) / [Settings](https://code.claude.com/docs/en/settings) / [Env vars](https://code.claude.com/docs/en/env-vars)。
+> 参考：[Output styles](https://code.claude.com/docs/en/output-styles) / [Settings](https://code.claude.com/docs/en/settings) / [Env vars](https://code.claude.com/docs/en/env-vars)。
