@@ -2,6 +2,11 @@
 
 > **个人 IP 文章库** · 历史发布 + 新创作统一管理 ｜ 可转公开
 
+![Status](https://img.shields.io/badge/status-private%20%28pending%20public%29-yellow.svg)
+![Articles](https://img.shields.io/badge/articles-4-blue.svg)
+![Categories](https://img.shields.io/badge/categories-3-green.svg)
+![Token%20Saving%20Docs](https://img.shields.io/badge/token--saving%20docs-3-purple.svg)
+
 ---
 
 ## 🎯 定位
