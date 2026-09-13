@@ -1,0 +1,13 @@
+# 私密与临时文件
+.DS_Store
+*.swp
+*.tmp
+.idea/
+.vscode/
+
+# 敏感信息
+*.key
+*.pem
+
+# 待发布图片原图（未脱敏前不入库）
+_assets/private/
