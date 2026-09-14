@@ -73,6 +73,7 @@
 ```
 xingtu-articles/
 ├── articles/           # 已发布文章镜像：md 与配图同目录，md 内相对路径引用展示
+├── articles/covers/    # 已发布文章封面缩略图（从发布包归档同步，见下方画廊）
 ├── growth-review/      # 成长复盘分类
 ├── LICENSE             # MIT
 └── README.md           # 本文件

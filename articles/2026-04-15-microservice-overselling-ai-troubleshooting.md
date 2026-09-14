@@ -5,6 +5,7 @@ tags: [AI工程化, 微服务, 排故, Kiro, Agent工作流]
 original: https://mp.weixin.qq.com/s/tB2lee5M6h__8FKruh75uA
 views: 111
 collection: AI工程化实战
+author: 行途
 ---
 
 # 把4小时排查压到75分钟：我是如何用AI解决微服务"超卖"悬案的
