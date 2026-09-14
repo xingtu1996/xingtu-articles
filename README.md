@@ -3,7 +3,7 @@
 > **个人 IP 文章库** · 公众号已发布文章的 GitHub 镜像 + 历史创作统一管理 ｜ 已公开
 
 ![Status](https://img.shields.io/badge/status-public-blue.svg)
-![Articles](https://img.shields.io/badge/articles-10-blue.svg)
+![Articles](https://img.shields.io/badge/articles-11-blue.svg)
 ![Categories](https://img.shields.io/badge/categories-5-green.svg)
 
 ---
@@ -22,6 +22,7 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
+| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](articles/2026-09-10-fde-ai-landing-people.md) | 124 | AI工程化实战 |
 | 2026-08-27 | [智谱「牛来」GLM-5.3 Flash 正式开源：输入0.4元/输出1.4元，比DeepSeek V4 Flash还便宜](articles/2026-08-27-glm-5.3-flash.md) | 141 | AI大模型观察 |
 | 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务"超卖"悬案的](articles/2026-04-15-microservice-overselling-ai-troubleshooting.md) | 111 | AI工程化实战 |
 
