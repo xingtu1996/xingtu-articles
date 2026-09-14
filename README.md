@@ -81,6 +81,20 @@ xingtu-articles/
 
 ---
 
+## 🖼 封面画廊（10 / 11）
+
+> 封面从发布包 `03_封面/` 归档同步；无归档的早期文章由 PIL 按「白底黑字 + 行途蓝 #056DE8」标准生成，保证仓库观感一致。2026-09-06《知识复利》暂无归档封面。
+
+| | |
+|---|---|
+| <img src="articles/covers/2026-04-15-microservice-cover.png" width="420"><br>2026-04-15 微服务「超卖」悬案 | <img src="articles/covers/2026-08-27-niulai-cover.png" width="420"><br>2026-08-27 智谱「牛来」Flash 开源 |
+| <img src="articles/covers/2026-08-28-shengtoken-cover.png" width="420"><br>2026-08-28 省 token 的第一性原理 | <img src="articles/covers/2026-09-04-five-types-cover.png" width="420"><br>2026-09-04 AI 时代的 5 种工程师 |
+| <img src="articles/covers/2026-09-05-agent-arch-cover.png" width="420"><br>2026-09-05 Harness 是工具还是规矩 | <img src="articles/covers/2026-09-07-fable-cover.png" width="420"><br>2026-09-07 Fable 5.1 提示词模式 |
+| <img src="articles/covers/2026-09-08-agent-cover.png" width="420"><br>2026-09-08 AI Agent 到底是什么 | <img src="articles/covers/2026-09-09-v41-cover.png" width="420"><br>2026-09-09 DeepSeek V4.1 Flash 内测 |
+| <img src="articles/covers/2026-09-10-fde-cover.png" width="420"><br>2026-09-10 FDE：国家点名的 AI 落地人 | <img src="articles/covers/2026-09-12-b16-cover.png" width="420"><br>2026-09-12 删了 306 行规则 |
+
+---
+
 ## 📚 专题与系列
 
 | 系列 | 内容 | 说明 |
