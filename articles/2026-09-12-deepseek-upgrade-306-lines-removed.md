@@ -2,7 +2,7 @@
 title: DeepSeek 升级没让我改一行配置，我却删了 306 行规则
 date: 2026-09-12
 tags: [DeepSeek, V4.1 Flash, Harness, CLAUDE.md, 规则精简, 提示词瘦身, 模型换代, 省token]
-original: https://mp.weixin.qq.com/s/UsmdZU_0SEzUwLtdhSylbg
+original: https://mp.weixin.qq.com/s/J2l9Zg804-noNGadzzpbiQ
 views: 2
 category: AI工程化实战
 author: 行途
