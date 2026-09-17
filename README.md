@@ -3,7 +3,7 @@
 > **个人 IP 文章库** · 公众号已发布文章的 GitHub 镜像 + 历史创作统一管理 ｜ 已公开
 
 ![Status](https://img.shields.io/badge/status-public-blue.svg)
-![Articles](https://img.shields.io/badge/articles-11-blue.svg)
+![Articles](https://img.shields.io/badge/articles-14-blue.svg)
 ![Categories](https://img.shields.io/badge/categories-5-green.svg)
 
 ---
@@ -123,7 +123,7 @@ xingtu-articles/
 | 018-019 | 行业观察（旗舰模型被蚕食 / 微信 16 个 AI 入口 / 爆款不可规划） |
 | 020-021 | 落地判断题（FDE 招人看什么 / Agent 堆量的边际收益 / 配置改不改） |
 
-图片目录：[`tuitu/`](tuitu/) · 当前 25 张
+图片目录：[`tuitu/`](tuitu/) · 当前 24 张
 
 ---
 
