@@ -16,14 +16,15 @@
 
 ---
 
-## 📄 已发布文章镜像（14篇 · 均已微信首发）
+## 📄 已发布文章镜像（17篇 · 均已微信首发）
 
 ### 🔥 爆款文章（阅读量破百）
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
-| 2026-09-13 | [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](articles/2026-09-13-pec-2026-conference-field-notes.md) | 140 | AI大模型观察 |
-| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](articles/2026-09-10-fde-ai-landing-people.md) | 124 | AI工程化实战 |
+| 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](articles/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 133 | 看懂AI Agent |
+| 2026-09-13 | [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](articles/2026-09-13-pec-2026-conference-field-notes.md) | 198 | AI大模型观察 |
+| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](articles/2026-09-10-fde-ai-landing-people.md) | 157 | AI工程化实战 |
 | 2026-08-27 | [智谱「牛来」GLM-5.3 Flash 正式开源：输入0.4元/输出1.4元，比DeepSeek V4 Flash还便宜](articles/2026-08-27-glm-5.3-flash.md) | 141 | AI大模型观察 |
 | 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务"超卖"悬案的](articles/2026-04-15-microservice-overselling-ai-troubleshooting.md) | 111 | AI工程化实战 |
 
@@ -59,8 +60,9 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
-| 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](articles/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 4 | AI大模型观察 |
-| 2026-09-09 | [DeepSeek V4.1 Flash 内测上手：会看图了、快了 5.5 倍、价格一分没涨](articles/2026-09-09-deepseek-v4.1-flash-review.md) | - | AI大模型观察 |
+| 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](articles/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 105 | AI大模型观察 |
+| 2026-09-11 | [DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%](articles/2026-09-11-deepseek-price-cutdown.md) | 19 | AI大模型观察 |
+| 2026-09-09 | [DeepSeek V4.1 Flash 内测上手：会看图了、快了 5.5 倍、价格一分没涨](articles/2026-09-09-deepseek-v4.1-flash-review.md) | 70 | AI大模型观察 |
 
 ---
 
@@ -96,7 +98,8 @@ xingtu-articles/
 | <img src="articles/covers/2026-09-08-agent-cover.png" width="420"><br>2026-09-08 AI Agent 到底是什么 | <img src="articles/covers/2026-09-09-v41-cover.png" width="420"><br>2026-09-09 DeepSeek V4.1 Flash 内测 |
 | <img src="articles/covers/2026-09-10-fde-cover.png" width="420"><br>2026-09-10 FDE：国家点名的 AI 落地人 | <img src="articles/covers/2026-09-12-b16-cover.png" width="420"><br>2026-09-12 删了 306 行规则 |
 | <img src="articles/covers/2026-09-13-pec-cover.png" width="420"><br>2026-09-13 PEC 2026 台下一天 | <img src="articles/covers/2026-09-14-fde-8d-cover.png" width="420"><br>2026-09-14 FDE 能力模型 8 维度 |
-| <img src="articles/covers/2026-09-15-v4pro-cover.png" width="420"><br>2026-09-15 V4 Pro 退役反转 |  |
+| <img src="articles/covers/2026-09-15-v4pro-cover.png" width="420"><br>2026-09-15 V4 Pro 退役反转 | <img src="articles/covers/2026-09-11-b15-cover.png" width="420"><br>2026-09-11 DeepSeek 降价全景 |
+| <img src="articles/covers/2026-09-16-agent03-ecosystem-cover.png" width="420"><br>2026-09-16 三平台选型账本 | <img src="articles/covers/2026-09-17-fde07-dual-role-cover.png" width="420"><br>2026-09-17 Palantir 双角色机制 |
 
 ---
 
