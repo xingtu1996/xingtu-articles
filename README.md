@@ -32,6 +32,7 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
+| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](articles/2026-09-17-palantir-fde-dual-role.md) | - | AI工程化实战 |
 | 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](articles/2026-09-14-fde-capability-model-8-dimensions.md) | 36 | AI工程化实战 |
 | 2026-09-12 | [DeepSeek 升级没让我改一行配置，我却删了 306 行规则](articles/2026-09-12-deepseek-upgrade-306-lines-removed.md) | 2 | AI工程化实战 |
 | 2026-09-07 | [Anthropic官方提示词手册：Fable 5.1的12条模式](articles/2026-09-07-fable-5.1-prompt-patterns.md) | - | AI工程化实战 |
