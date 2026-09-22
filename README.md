@@ -3,7 +3,7 @@
 > **个人 IP 文章库** · 公众号已发布文章的 GitHub 镜像 + 历史创作统一管理 ｜ 已公开
 
 ![Status](https://img.shields.io/badge/status-public-blue.svg)
-![Articles](https://img.shields.io/badge/articles-14-blue.svg)
+![Articles](https://img.shields.io/badge/articles-22-blue.svg)
 ![Categories](https://img.shields.io/badge/categories-5-green.svg)
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-## 📄 已发布文章镜像（17篇 · 均已微信首发）
+## 📄 已发布文章镜像（22篇 · 均已微信首发）
 
 ### 🔥 爆款文章（阅读量破百）
 
@@ -32,7 +32,11 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
-| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](articles/2026-09-17-palantir-fde-dual-role.md) | - | AI工程化实战 |
+| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](articles/2026-09-17-palantir-fde-dual-role.md) | 96 | AI工程化实战 |
+| 2026-09-21 | [我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了](articles/2026-09-21-five-ai-tools-same-spec.md) | 10 | AI工程化实战 |
+| 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](articles/2026-09-20-fde-communication-three-step.md) | 5 | AI工程化实战 |
+| 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](articles/2026-09-19-fde-hiring-client-site-communication.md) | 8 | AI工程化实战 |
+| 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](articles/2026-09-18-small-team-ai-delivery-fde-review.md) | 64 | AI工程化实战 |
 | 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](articles/2026-09-14-fde-capability-model-8-dimensions.md) | 36 | AI工程化实战 |
 | 2026-09-12 | [DeepSeek 升级没让我改一行配置，我却删了 306 行规则](articles/2026-09-12-deepseek-upgrade-306-lines-removed.md) | 2 | AI工程化实战 |
 | 2026-09-07 | [Anthropic官方提示词手册：Fable 5.1的12条模式](articles/2026-09-07-fable-5.1-prompt-patterns.md) | - | AI工程化实战 |
@@ -49,6 +53,7 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
+| 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](articles/2026-09-22-token-benchmark-9-coding-agents.md) | 13 | 省token实战 |
 | 2026-08-28 | [省token的第一性原理：把「不用推理的活」，从模型手里拿回来](articles/2026-08-28-save-token-first-principle.md) | 1 | 省token实战 |
 
 ### 🤖 看懂AI Agent
