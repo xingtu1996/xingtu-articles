@@ -3,7 +3,7 @@
 > **个人 IP 文章库** · 公众号已发布文章的 GitHub 镜像 + 历史创作统一管理 ｜ 已公开
 
 ![Status](https://img.shields.io/badge/status-public-blue.svg)
-![Articles](https://img.shields.io/badge/articles-22-blue.svg)
+![Articles](https://img.shields.io/badge/articles-23-blue.svg)
 ![Categories](https://img.shields.io/badge/categories-5-green.svg)
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-## 📄 已发布文章镜像（22篇 · 均已微信首发）
+## 📄 已发布文章镜像（23篇 · 均已微信首发）
 
 ### 🔥 爆款文章（阅读量破百）
 
@@ -53,6 +53,7 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
+| 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](articles/2026-09-24-token-09-context-management.md) | - | 省token实战 |
 | 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](articles/2026-09-22-token-benchmark-9-coding-agents.md) | 13 | 省token实战 |
 | 2026-08-28 | [省token的第一性原理：把「不用推理的活」，从模型手里拿回来](articles/2026-08-28-save-token-first-principle.md) | 1 | 省token实战 |
 
