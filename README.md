@@ -32,6 +32,7 @@
 
 | 日期 | 标题 | 阅读 | 分类 |
 |------|------|:---:|------|
+| 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](articles/2026-09-23-vibe-coding-nobody-reads-code.md) | 68 | AI工程化实战 |
 | 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](articles/2026-09-17-palantir-fde-dual-role.md) | 96 | AI工程化实战 |
 | 2026-09-21 | [我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了](articles/2026-09-21-five-ai-tools-same-spec.md) | 10 | AI工程化实战 |
 | 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](articles/2026-09-20-fde-communication-three-step.md) | 5 | AI工程化实战 |
