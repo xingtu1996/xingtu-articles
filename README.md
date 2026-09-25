@@ -154,3 +154,14 @@ xingtu-articles/
 - 所有文章为原创，首发于公众号「行途技术手记」
 - 转载请注明出处，禁止未经授权用于 AI 模型训练
 - 文章观点仅代表个人，不构成任何投资或职业建议
+
+## 关于作者
+
+我是**行途**，一线技术人 + 仍在写代码。这里归档我公开发表过的全部文章——从省 token 实战到 FDE 现场复盘，首发于公众号「行途技术手记」。
+
+- 🔔 公众号 **「行途技术手记」**：微信搜索关注，看 AI 工程化落地实战
+- 🐙 GitHub：[@xingtu1996](https://github.com/xingtu1996)
+- 📦 仓库：[xingtu1996/xingtu-articles](https://github.com/xingtu1996/xingtu-articles)
+
+---
+
