@@ -1,0 +1,283 @@
+{
+  "repo": "xingtu-articles",
+  "updated": "2026-09-27",
+  "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
+  "total": 25,
+  "articles": [
+    {
+      "date": "2026-04-15",
+      "title": "把4小时排查压到75分钟：我是如何用AI解决微服务'超卖'悬案的",
+      "summary": "写在前面：大家好，我是行途。从最早修电脑算起，在技术圈摸爬滚打十来年，正式扎根研发与架构管理也有8年了。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/04/2026-04-15-microservice-overselling-ai-troubleshooting.md",
+      "original": "",
+      "prev": null,
+      "next": "articles/2026/08/2026-08-27-glm-5.3-flash.md"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "智谱「牛来（Ox Alpha）」GLM-5.3 Flash 正式开源：输入 0.4 元 / 输出 1.4 元，比 DeepSeek V4 Flash 还便宜",
+      "summary": "发布日期：2026-08-27 · 数据全部来自官方来源（文末标注） · 配图来源：智谱官网 z.ai/blog/glm-5.3-flash",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/08/2026-08-27-glm-5.3-flash.md",
+      "original": "",
+      "prev": "articles/2026/04/2026-04-15-microservice-overselling-ai-troubleshooting.md",
+      "next": "articles/2026/08/2026-08-28-save-token-first-principle.md"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "省 token 的第一性原理：把「不用推理的活」，从模型手里拿回来",
+      "summary": "发布日期：2026-08-28 · 数据来自团队 8 个月账单统计 · 配图自制",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/08/2026-08-28-save-token-first-principle.md",
+      "original": "",
+      "prev": "articles/2026/08/2026-08-27-glm-5.3-flash.md",
+      "next": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md"
+    },
+    {
+      "date": "2026-09-",
+      "title": "FDE 工作法：进场、在场、离场",
+      "summary": "title: FDE 工作法：进场、在场、离场",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
+      "original": "",
+      "prev": "articles/2026/08/2026-08-28-save-token-first-principle.md",
+      "next": "articles/2026/09/2026-09-04-five-types-engineers.md"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？",
+      "summary": "系列：AI 时代的角色（新开）｜ B 档 ｜ 行途 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-04-five-types-engineers.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
+      "next": "articles/2026/09/2026-09-05-harness-cognition.md"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "GPT-6 Astra 与 Work Agent 时代，Harness 是工具还是规矩？——基于五级认知梯度的 AI 工程化可控性研究",
+      "summary": "全文约 4900 字，预计阅读 12 分钟。",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-05-harness-cognition.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-04-five-types-engineers.md",
+      "next": "articles/2026/09/2026-09-06-knowledge-compounding.md"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "为什么你做了很多事，却什么都没留下？——一套普通人也能用的知识复利方法",
+      "summary": "有时候停下来想想，会发现一个挺扎心的事：每天忙忙碌碌，一年下来回头看，好像什么都没留下。",
+      "category": "认知复利 · 方法论",
+      "icon": "🌱",
+      "path": "articles/2026/09/2026-09-06-knowledge-compounding.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-05-harness-cognition.md",
+      "next": "articles/2026/09/2026-09-07-fable-5.1-prompt-patterns.md"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Anthropic官方提示词手册：Fable 5.1的12条模式",
+      "summary": "有时候停下来想想：我用了这么久Claude，提示词写了一堆，但模型一升级，老提示词还管用吗？",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-07-fable-5.1-prompt-patterns.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-06-knowledge-compounding.md",
+      "next": "articles/2026/09/2026-09-08-ai-agent-explained.md"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "AI Agent 到底是什么？三年，从会说话到会干活",
+      "summary": "三年，AI 从'会说话'变成'会干活'。这篇文章讲清楚：AI 是啥、LLM 是啥、Agent 是啥、能干嘛、怎么来的。",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-08-ai-agent-explained.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-07-fable-5.1-prompt-patterns.md",
+      "next": "articles/2026/09/2026-09-09-deepseek-v4.1-flash-review.md"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "DeepSeek V4.1 Flash 内测上手：会看图了、快了 5.5 倍、价格一分没涨",
+      "summary": "先说结论：V4.1 Flash 内测，是 Flash 系从'轻量快速'变成'多模态全能'的关键一步——原生会看图、思考速度快 5.5 倍、价格跟 V4-Flas",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-09-deepseek-v4.1-flash-review.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-08-ai-agent-explained.md",
+      "next": "articles/2026/09/2026-09-10-fde-ai-landing-people.md"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "国家点名 FDE：AI 落地缺的不是模型，是现场的人",
+      "summary": "一句话摘要：2026年8月27日，工信部印发通知，点名鼓励培育'前线部署工程师（FDE）'团队。我从今年上半年开始关注这个岗位，做了 FDE 相关项目、面试了几",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-10-fde-ai-landing-people.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-09-deepseek-v4.1-flash-review.md",
+      "next": "articles/2026/09/2026-09-11-deepseek-price-cutdown.md"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%",
+      "summary": "一句话总结：DeepSeek 2026 年 9 月 10 日 12:00 上线 DeepSeek V4.1 Flash（基于 DeepSeek V4 Flash",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-11-deepseek-price-cutdown.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-10-fde-ai-landing-people.md",
+      "next": "articles/2026/09/2026-09-12-deepseek-upgrade-306-lines-removed.md"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "DeepSeek 升级没让我改一行配置，我却删了 306 行规则",
+      "summary": "一句话总结：2026 年 9 月中旬，我用的 API 平台把 DeepSeek 升级到 V4.1-Flash，公告写明「无需改任何配置」——旧模型名自动路由，配",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-12-deepseek-upgrade-306-lines-removed.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-11-deepseek-price-cutdown.md",
+      "next": "articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness",
+      "summary": "PEC 2026 台下一天的现场笔记：Token 工厂全流程、FDE 工程落地范式、AI 出海与 Harness 演进，一线所见与判断。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-12-deepseek-upgrade-306-lines-removed.md",
+      "next": "articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像",
+      "summary": "一句话摘要：FDE 不是'会用 AI 的全栈工程师'，而是项目管理、全栈架构、基础设施、AI 编排、领域建模、团队协调、沟通管理、文档能力八个维度的综合体。这篇",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md",
+      "next": "articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断",
+      "summary": "一句话摘要：原定 9 月 14 日 12:00 下线的 DeepSeek V4 Pro，在「死线」当天被官方按住了——继续提供 API 服务，计费方式不变。两天",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md",
+      "next": "articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本",
+      "summary": "一句话摘要：翻了三家大厂离职与在职资深从业者的公开访谈，三款工具各跑了一段真实工作流。判断：这场三国杀刚开打，终局跟协同软件绑死。",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md",
+      "next": "articles/2026/09/2026-09-17-palantir-fde-dual-role.md"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米",
+      "summary": "一句话摘要：Palantir 跑通 AI 落地靠两个人：Echo 负责懂，Delta 负责造。这篇拆机制，对项目，一个人顶两个角色。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-17-palantir-fde-dual-role.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md",
+      "next": "articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘",
+      "summary": "前段时间，我作为 FDE 主导了一个某快消巨头的企业级应用改造项目。小团队加 AI 编程助手，一个多月从 0 到完整交付了十多万行代码和大量文档，团队远程协作完",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-17-palantir-fde-dual-role.md",
+      "next": "articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛",
+      "summary": "前段时间，我作为技术面试官，面试了几位全栈交付工程师（FDE 方向）候选人。多轮面试后，我把考察维度从'AI 工程化优先'调整为'客户现场沟通 + Java 双",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md",
+      "next": "articles/2026/09/2026-09-20-fde-communication-three-step.md"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "FDE 沟通三段论：拒绝需求但不拒绝人",
+      "summary": "一句话：客户现场 90% 的冲突，不是技术问题，是沟通问题。三段论——信息同步、技术翻译、高情商收尾——从一线实战里磨出来的沟通框架。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-20-fde-communication-three-step.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md",
+      "next": "articles/2026/09/2026-09-21-five-ai-tools-same-spec.md"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了",
+      "summary": "【配图：00-引子图-AGENTSmd三入口.png】",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-21-five-ai-tools-same-spec.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-20-fde-communication-three-step.md",
+      "next": "articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "省token横评：9个主流编程Agent谁最省token",
+      "summary": "行途导读：9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Ag",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-21-five-ai-tools-same-spec.md",
+      "next": "articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多",
+      "summary": "【配图：00-引子图-vibe-coding.png】",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md",
+      "next": "articles/2026/09/2026-09-24-token-09-context-management.md"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "AI 越用越笨？问题不在模型，在上下文管理",
+      "summary": "行途导读：我花 25 美元修一个 Bug，发现账单几乎全付给了被清空的缓存。AI 不是变笨了，是上下文没管好。这篇讲清楚 AI'变笨'的四个机制，和六招上下文管",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-24-token-09-context-management.md",
+      "original": "",
+      "prev": "articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md",
+      "next": null
+    }
+  ]
+}
