@@ -3,7 +3,7 @@
 > **个人 IP 文章库** · 公众号已发布文章的 GitHub 镜像 + 历史创作统一管理 ｜ 已公开
 
 ![Status](https://img.shields.io/badge/status-public-blue.svg)
-![Articles](https://img.shields.io/badge/articles-23-blue.svg)
+![Articles](https://img.shields.io/badge/articles-25-blue.svg)
 ![Categories](https://img.shields.io/badge/categories-5-green.svg)
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-## 📄 已发布文章镜像（23篇 · 均已微信首发）
+## 📄 已发布文章镜像（25篇 · 均已微信首发）
 
 ### 🔥 爆款文章（阅读量破百）
 
