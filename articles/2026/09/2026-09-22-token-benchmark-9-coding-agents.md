@@ -1,11 +1,12 @@
 ---
 title: "省token横评：9个主流编程Agent谁最省token"
 date: 2026-09-22
-slug: token-benchmark-9-coding-agents
+slug: "token-benchmark-9-coding-agents"
 category: "工具横评 · 模型实测"
-summary: "行途导读：9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Ag"
-author: 行途 XingTu
+summary: "!00-封面首图(../../../assets/2026/09/2026-09-22-token-benchmark-9-coding-agents/00-封面首图.png)"
+author: "行途 XingTu"
 ---
+
 # 省token横评：9个主流编程Agent谁最省token
 
 ![00-封面首图](../../../assets/2026/09/2026-09-22-token-benchmark-9-coding-agents/00-封面首图.png)
@@ -163,7 +164,6 @@ Pi：走另一条省 token 路线的。开源，系统 prompt 不到 1000 tokens
 4. 个人日常：主力就是 Claude Code，Spec 驱动开发 + 多 session 并行，中转平台直接配 API key，Kiro 是历史启蒙但日常已切到终端
 5. 不管用哪个 Agent，四条通用配置都能省 token：开检索层（代码图谱）、开协议层（rtk）、开散文层（Caveman/Concise）、及时开新会话——配合使用可降至原来三成左右
 
-
 ---
 
 > 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
@@ -172,3 +172,5 @@ Pi：走另一条省 token 路线的。开源，系统 prompt 不到 1000 tokens
 ---
 
 [⬅️ 上一篇：我给 5 个 AI 工具写同一份说明书，两个月后](2026-09-21-five-ai-tools-same-spec.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：Vibe coding 出来的代码没人看了：我花](2026-09-23-vibe-coding-nobody-reads-code.md)
+
+🔗 相关仓库：[tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench)（本文横评数据的可复现评测工具）

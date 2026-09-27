@@ -1,11 +1,12 @@
 ---
 title: "AI 越用越笨？问题不在模型，在上下文管理"
 date: 2026-09-24
-slug: token-09-context-management
+slug: "token-09-context-management"
 category: "FDE · AI 工程化落地"
-summary: "行途导读：我花 25 美元修一个 Bug，发现账单几乎全付给了被清空的缓存。AI 不是变笨了，是上下文没管好。这篇讲清楚 AI'变笨'的四个机制，和六招上下文管"
-author: 行途 XingTu
+summary: "!00-封面引子图(../../../assets/shared/00-封面引子图.png)"
+author: "行途 XingTu"
 ---
+
 # AI 越用越笨？问题不在模型，在上下文管理
 
 ![00-封面引子图](../../../assets/shared/00-封面引子图.png)
@@ -124,3 +125,5 @@ author: 行途 XingTu
 ---
 
 [⬅️ 上一篇：Vibe coding 出来的代码没人看了：我花](2026-09-23-vibe-coding-nobody-reads-code.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：FDE 工作法：进场、在场、离场](2026-09-25-fde-working-method-three-stages.md)
+
+🔗 相关仓库：[tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench)（token 用量度量工具） ｜ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

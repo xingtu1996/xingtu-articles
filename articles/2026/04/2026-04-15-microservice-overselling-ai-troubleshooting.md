@@ -1,13 +1,12 @@
 ---
 title: "把4小时排查压到75分钟：我是如何用AI解决微服务'超卖'悬案的"
 date: 2026-04-15
-slug: microservice-overselling-ai-troubleshooting
+slug: "microservice-overselling-ai-troubleshooting"
 category: "FDE · AI 工程化落地"
-summary: "写在前面：大家好，我是行途。从最早修电脑算起，在技术圈摸爬滚打十来年，正式扎根研发与架构管理也有8年了。
-
- 前两天，团队遇到了一个极其棘手的微服务并发BUG。"
-author: 行途 XingTu
+summary: "写在前面：大家好，我是行途。从最早修电脑算起，在技术圈摸爬滚打十来年，正式扎根研发与架构管理也有8年了。 前两天，团队遇到了一个极其棘手的微服务并发BUG。"
+author: "行途 XingTu"
 ---
+
 # 把4小时排查压到75分钟：我是如何用AI解决微服务"超卖"悬案的
 
 > **写在前面**：大家好，我是行途。从最早修电脑算起，在技术圈摸爬滚打十来年，正式扎根研发与架构管理也有8年了。
@@ -198,3 +197,5 @@ GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 ---
 
 [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：智谱「牛来（Ox Alpha）」GLM-5.3 ](../08/2026-08-27-glm-5.3-flash.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

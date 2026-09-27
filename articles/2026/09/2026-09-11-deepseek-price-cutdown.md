@@ -1,11 +1,12 @@
 ---
 title: "DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%"
 date: 2026-09-11
-slug: deepseek-price-cutdown
+slug: "deepseek-price-cutdown"
 category: "工具横评 · 模型实测"
-summary: "一句话总结：DeepSeek 2026 年 9 月 10 日 12:00 上线 DeepSeek V4.1 Flash（基于 DeepSeek V4 Flash"
-author: 行途 XingTu
+summary: "一句话总结：DeepSeek 2026 年 9 月 10 日 12:00 上线 DeepSeek V4.1 Flash（基于 DeepSeek V4 Flash 的轻量架构），把 "
+author: "行途 XingTu"
 ---
+
 # DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%
 
 > 一句话总结：DeepSeek 2026 年 9 月 10 日 12:00 上线 DeepSeek V4.1 Flash（基于 DeepSeek V4 Flash 的轻量架构），把 Flash 系列价格砍到 DeepSeek V4 Pro 的 1/7.5；9 月 14 日 12:00 DeepSeek V4 Pro 下线自动路由到 DeepSeek V4.1 Flash。门槛塌了，但企业真实账本上综合降幅是 17.5%，不是媒体喊的 60%。对平常人：手机 AI 助手与 AI 编程工具的订阅价会更便宜；对企业：TCO 的隐性成本（缓存、并发、重试、切换）需要重算。这是行业临界点，不是普惠降价。
@@ -272,3 +273,5 @@ Flash 级模型 + 模型路由 + 缓存优化的工程化组合。用 20% 的成
 ---
 
 [⬅️ 上一篇：国家点名 FDE：AI 落地缺的不是模型，是现场](2026-09-10-fde-ai-landing-people.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：DeepSeek 升级没让我改一行配置，我却删了](2026-09-12-deepseek-upgrade-306-lines-removed.md)
+
+🔗 相关仓库：[tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench)（token 成本可复现评测）

@@ -1,11 +1,12 @@
 ---
 title: "AI Agent 到底是什么？三年，从会说话到会干活"
 date: 2026-09-08
-slug: ai-agent-explained
+slug: "ai-agent-explained"
 category: "工具横评 · 模型实测"
 summary: "三年，AI 从'会说话'变成'会干活'。这篇文章讲清楚：AI 是啥、LLM 是啥、Agent 是啥、能干嘛、怎么来的。"
-author: 行途 XingTu
+author: "行途 XingTu"
 ---
+
 # AI Agent 到底是什么？三年，从会说话到会干活
 
 > 三年，AI 从"会说话"变成"会干活"。这篇文章讲清楚：AI 是啥、LLM 是啥、Agent 是啥、能干嘛、怎么来的。
@@ -293,7 +294,6 @@ Manus 是一个中国创业公司想做"通用 AI 助手"，上线后被用户�
 ## 关于行途
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。在这个 influencers（博主）满天飞、builders（实干家）闷头干活的时代，我选择做后者——不追热点，只讲那些「工具会变，但思想不变」的东西。如果你也在搭自己的 harness，或者对 AI 工程化有疑问，欢迎关注「行途技术手记」。
-
 
 ## 延伸阅读
 

@@ -1,11 +1,12 @@
 ---
 title: "Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多"
 date: 2026-09-23
-slug: vibe-coding-nobody-reads-code
+slug: "vibe-coding-nobody-reads-code"
 category: "工具横评 · 模型实测"
-summary: "【配图：00-引子图-vibe-coding.png】"
-author: 行途 XingTu
+summary: "!00-引子图-vibe-coding(../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/00-引子"
+author: "行途 XingTu"
 ---
+
 ![00-引子图-vibe-coding](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/00-引子图-vibe-coding.png)
 
 # Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多
@@ -72,14 +73,11 @@ author: 行途 XingTu
 
 Andrew Ng 在 2025 年 6 月公开批评：**"vibe coding 是一种危险的幻觉。"**
 
-
 ![04-UncleBob_不看代码_Twitter对话](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/04-UncleBob_不看代码_Twitter对话.jpg)
 ---
 
-
 ![01-vibe-coding时间线](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/01-vibe-coding时间线.png)
 ## 四、我的真实实践：从 vibe 到 spec
-
 
 ![05-xingtu-sdd仓库](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/05-xingtu-sdd仓库.png)
 我用 Claude Code + CC Switch 跑了 4 个月，10.8 万次请求，239 亿 token。
@@ -112,7 +110,6 @@ Andrew Ng 在 2025 年 6 月公开批评：**"vibe coding 是一种危险的幻�
 
 每个 sub-spec 单独一个会话，写完验收，再进下一个。
 
-
 ![02-spec实践三步](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/02-spec实践三步.png)
 ### 3. 上下文管理：该 compact 就 compact，该 clear 就 clear
 
@@ -142,7 +139,6 @@ Andrew Ng 在 2025 年 6 月公开批评：**"vibe coding 是一种危险的幻�
 
 ## 五、Harness：把 AI 装进受控轨道
 
-
 ![03-Harness六层架构](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/03-Harness六层架构.png)
 我在工作区里搭了一套 Harness（AI 自媒体操作系统），核心就是把"人对齐 spec"这个环节固化下来。
 
@@ -171,3 +167,5 @@ AI 没有目的，人得把控方向。
 ---
 
 [⬅️ 上一篇：省token横评：9个主流编程Agent谁最省t](2026-09-22-token-benchmark-9-coding-agents.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：AI 越用越笨？问题不在模型，在上下文管理](2026-09-24-token-09-context-management.md)
+
+🔗 相关仓库：[xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd)（本文方法论的产品化：规格驱动开发）

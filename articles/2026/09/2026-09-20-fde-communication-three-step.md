@@ -1,11 +1,12 @@
 ---
 title: "FDE 沟通三段论：拒绝需求但不拒绝人"
 date: 2026-09-20
-slug: fde-communication-three-step
+slug: "fde-communication-three-step"
 category: "FDE · AI 工程化落地"
-summary: "一句话：客户现场 90% 的冲突，不是技术问题，是沟通问题。三段论——信息同步、技术翻译、高情商收尾——从一线实战里磨出来的沟通框架。"
-author: 行途 XingTu
+summary: "!00-引子图-三段论(../../../assets/2026/09/2026-09-20-fde-communication-three-step/00-引子图-三段论.png"
+author: "行途 XingTu"
 ---
+
 # FDE 沟通三段论：拒绝需求但不拒绝人
 
 ![00-引子图-三段论](../../../assets/2026/09/2026-09-20-fde-communication-three-step/00-引子图-三段论.png)
@@ -122,7 +123,6 @@ FDE 的技术决定能不能干活，沟通决定能不能把事办成。信息�
 
 技术细节终会过时，工程思想历久弥新。
 
-
 ---
 
 > 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
@@ -131,3 +131,5 @@ FDE 的技术决定能不能干活，沟通决定能不能把事办成。信息�
 ---
 
 [⬅️ 上一篇：AI 工程师/FDE 招聘：会调 Prompt ](2026-09-19-fde-hiring-client-site-communication.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：我给 5 个 AI 工具写同一份说明书，两个月后](2026-09-21-five-ai-tools-same-spec.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

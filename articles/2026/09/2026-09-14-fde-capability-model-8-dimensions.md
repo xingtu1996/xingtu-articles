@@ -1,11 +1,12 @@
 ---
 title: "FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像"
 date: 2026-09-14
-slug: fde-capability-model-8-dimensions
+slug: "fde-capability-model-8-dimensions"
 category: "FDE · AI 工程化落地"
-summary: "一句话摘要：FDE 不是'会用 AI 的全栈工程师'，而是项目管理、全栈架构、基础设施、AI 编排、领域建模、团队协调、沟通管理、文档能力八个维度的综合体。这篇"
-author: 行途 XingTu
+summary: "一句话摘要：FDE 不是'会用 AI 的全栈工程师'，而是项目管理、全栈架构、基础设施、AI 编排、领域建模、团队协调、沟通管理、文档能力八个维度的综合体。这篇把每个维度拆开讲清楚"
+author: "行途 XingTu"
 ---
+
 # FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像
 
 > 一句话摘要：FDE 不是"会用 AI 的全栈工程师"，而是项目管理、全栈架构、基础设施、AI 编排、领域建模、团队协调、沟通管理、文档能力八个维度的综合体。这篇把每个维度拆开讲清楚——定义、为什么重要、真实场景、怎么修炼。
@@ -32,8 +33,6 @@ FDE 的能力模型有 8 个维度，技术 4 条、软技能 4 条，每一条�
 10. 文档能力：FDE 的记忆外挂
 11. 能力模型怎么用：自查、招人、成长路径
 12. 核心结论
-
-
 
 ## 1. FDE 不是万金油：每个维度都有交付线
 
@@ -274,3 +273,5 @@ FDE能力模型 / FDE工程师要求 / 前线部署工程师 / AI落地人才 / 
 ---
 
 [⬅️ 上一篇：pec-2026-conference-fiel](2026-09-13-pec-2026-conference-field-notes.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：DeepSeek V4 Pro 不下线了：一场没](2026-09-15-deepseek-v4-pro-retirement-reversed.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

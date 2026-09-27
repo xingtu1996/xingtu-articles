@@ -1,20 +1,10 @@
 ---
-title: "FDE 工作法：进场、在场、离场"
+title: "FDE 工作法：进场、在场、离场，AI 落地是这样跑完的"
 date: 2026-09-25
-slug: fde-working-method-three-stages
+slug: "fde-working-method-three-stages"
 category: "FDE · AI 工程化落地"
-summary: "title: FDE 工作法：进场、在场、离场
-slug: fde-08-working-method
-series: 看懂FDE
-date: 2026-09-"
-author: 行途 XingTu
----
-title: FDE 工作法：进场、在场、离场
-slug: fde-08-working-method
-series: 看懂FDE
-date: 2026-09-15
-status: 成稿待排期
-状态: 已建稿 2026-09-25 · 待定时
+summary: "AI 落地不缺聪明人，缺能把方案变简单的人。FDE 工作法拆成进场、在场、离场三阶段十二项控制点，一套可复用的 AI 交付方法论。"
+author: "行途 XingTu"
 ---
 
 # FDE 工作法：进场、在场、离场
@@ -198,3 +188,5 @@ POC 纪律。达标线：范围、数据、周期、转化条件四要素齐备�
 ---
 
 [⬅️ 上一篇：AI 越用越笨？问题不在模型，在上下文管理](2026-09-24-token-09-context-management.md) ｜ [📑 返回文章库](../../README.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

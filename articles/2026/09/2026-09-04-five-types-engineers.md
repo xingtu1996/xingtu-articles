@@ -1,11 +1,12 @@
 ---
 title: "Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？"
 date: 2026-09-04
-slug: five-types-engineers
+slug: "five-types-engineers"
 category: "FDE · AI 工程化落地"
 summary: "系列：AI 时代的角色（新开）｜ B 档 ｜ 行途 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）"
-author: 行途 XingTu
+author: "行途 XingTu"
 ---
+
 # Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？
 
 > 系列：AI 时代的角色（新开）｜ B 档 ｜ 行途 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）
@@ -168,3 +169,5 @@ FDE 和 AI Builder 都贴在"离业务最近"那根轴上，落点不同：**Bui
 ---
 
 [⬅️ 上一篇：省 token 的第一性原理：把「不用推理的活」](../08/2026-08-28-save-token-first-principle.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：GPT-6 Astra 与 Work Agent](2026-09-05-harness-cognition.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

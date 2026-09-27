@@ -1,11 +1,12 @@
 ---
 title: "AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛"
 date: 2026-09-19
-slug: fde-hiring-client-site-communication
+slug: "fde-hiring-client-site-communication"
 category: "FDE · AI 工程化落地"
-summary: "前段时间，我作为技术面试官，面试了几位全栈交付工程师（FDE 方向）候选人。多轮面试后，我把考察维度从'AI 工程化优先'调整为'客户现场沟通 + Java 双"
-author: 行途 XingTu
+summary: "!00-引子图-面试框架(../../../assets/2026/09/2026-09-19-fde-hiring-client-site-communication/00-引子"
+author: "行途 XingTu"
 ---
+
 # AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛
 
 ![00-引子图-面试框架](../../../assets/2026/09/2026-09-19-fde-hiring-client-site-communication/00-引子图-面试框架.png)
@@ -281,7 +282,6 @@ Java 后端技术深度 15 分钟：最大权重，不压缩时间。Spring Boot
 
 关键词：AI 工程师招聘 / FDE 招聘 / 行途技术手记
 
-
 ---
 
 > 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
@@ -290,3 +290,5 @@ Java 后端技术深度 15 分钟：最大权重，不压缩时间。Spring Boot
 ---
 
 [⬅️ 上一篇：小团队加 AI，一个多月交付十多万行代码：一次 ](2026-09-18-small-team-ai-delivery-fde-review.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：FDE 沟通三段论：拒绝需求但不拒绝人](2026-09-20-fde-communication-three-step.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

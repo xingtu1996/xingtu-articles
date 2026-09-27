@@ -1,11 +1,12 @@
 ---
 title: "Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米"
 date: 2026-09-17
-slug: palantir-fde-dual-role
+slug: "palantir-fde-dual-role"
 category: "FDE · AI 工程化落地"
 summary: "一句话摘要：Palantir 跑通 AI 落地靠两个人：Echo 负责懂，Delta 负责造。这篇拆机制，对项目，一个人顶两个角色。"
-author: 行途 XingTu
+author: "行途 XingTu"
 ---
+
 # Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米
 
 > 一句话摘要：Palantir 跑通 AI 落地靠两个人：Echo 负责懂，Delta 负责造。这篇拆机制，对项目，一个人顶两个角色。
@@ -183,3 +184,5 @@ Echo 的能力是读懂业务模式——知道客户要什么、卡在哪、谁
 ---
 
 [⬅️ 上一篇：员工比功能，老板看生态：WorkBuddy、豆包](2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：小团队加 AI，一个多月交付十多万行代码：一次 ](2026-09-18-small-team-ai-delivery-fde-review.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

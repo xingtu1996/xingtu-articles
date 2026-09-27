@@ -1,11 +1,12 @@
 ---
 title: "国家点名 FDE：AI 落地缺的不是模型，是现场的人"
 date: 2026-09-10
-slug: fde-ai-landing-people
+slug: "fde-ai-landing-people"
 category: "FDE · AI 工程化落地"
-summary: "一句话摘要：2026年8月27日，工信部印发通知，点名鼓励培育'前线部署工程师（FDE）'团队。我从今年上半年开始关注这个岗位，做了 FDE 相关项目、面试了几"
-author: 行途 XingTu
+summary: "一句话摘要：2026年8月27日，工信部印发通知，点名鼓励培育'前线部署工程师（FDE）'团队。我从今年上半年开始关注这个岗位，做了 FDE 相关项目、面试了几位候选人。这篇把政策"
+author: "行途 XingTu"
 ---
+
 # 国家点名 FDE：AI 落地缺的不是模型，是现场的人
 
 > 一句话摘要：2026年8月27日，工信部印发通知，点名鼓励培育"前线部署工程师（FDE）"团队。我从今年上半年开始关注这个岗位，做了 FDE 相关项目、面试了几位候选人。这篇把政策信号、一线实战和面试方法论合在一起讲清楚。
@@ -270,7 +271,6 @@ FDE是什么 / FDE工程师 / 工信部AI服务商 / 前线部署工程师 / AI�
 想第一时间收到推送，给「行途技术手记」加个星标。
 谢谢你看我的文章，下篇见。
 
-
 延伸阅读
 
 [Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？](https://mp.weixin.qq.com/s/b5nsNKoY1gNvJqpwMYcVLA) —— FDE 在工程师谱系里的位置，一篇看懂
@@ -295,3 +295,5 @@ FDE是什么 / FDE工程师 / 工信部AI服务商 / 前线部署工程师 / AI�
 ---
 
 [⬅️ 上一篇：DeepSeek V4.1 Flash 内测上手](2026-09-09-deepseek-v4.1-flash-review.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：DeepSeek 降价全景：旗舰砍到 1/7.5](2026-09-11-deepseek-price-cutdown.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

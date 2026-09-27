@@ -1,11 +1,12 @@
 ---
 title: "DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断"
 date: 2026-09-15
-slug: deepseek-v4-pro-retirement-reversed
+slug: "deepseek-v4-pro-retirement-reversed"
 category: "工具横评 · 模型实测"
-summary: "一句话摘要：原定 9 月 14 日 12:00 下线的 DeepSeek V4 Pro，在「死线」当天被官方按住了——继续提供 API 服务，计费方式不变。两天"
-author: 行途 XingTu
+summary: "一句话摘要：原定 9 月 14 日 12:00 下线的 DeepSeek V4 Pro，在「死线」当天被官方按住了——继续提供 API 服务，计费方式不变。两天三个版本，这场没完成"
+author: "行途 XingTu"
 ---
+
 # DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断
 
 > 一句话摘要：原定 9 月 14 日 12:00 下线的 DeepSeek V4 Pro，在「死线」当天被官方按住了——继续提供 API 服务，计费方式不变。两天三个版本，这场没完成的退役，比退役本身更值得看。

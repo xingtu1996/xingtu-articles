@@ -1,11 +1,12 @@
 ---
 title: "我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了"
 date: 2026-09-21
-slug: five-ai-tools-same-spec
+slug: "five-ai-tools-same-spec"
 category: "工具横评 · 模型实测"
-summary: "【配图：00-引子图-AGENTSmd三入口.png】"
-author: 行途 XingTu
+summary: "!00-引子图-AGENTSmd三入口(../../../assets/2026/09/2026-09-21-five-ai-tools-same-spec/00-引子图-AGEN"
+author: "行途 XingTu"
 ---
+
 # 我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了
 
 ![00-引子图-AGENTSmd三入口](../../../assets/2026/09/2026-09-21-five-ai-tools-same-spec/00-引子图-AGENTSmd三入口.png)
@@ -60,7 +61,6 @@ Claude Code 9 月 18 日那条更新，把我两个月前的一个土办法变�
 再加一句量级：工作区里现在有 35 个 skill，触发条件、适用范围、彼此分工都写在触发规则表里。
 
 这套东西的价值不在"看起来整齐"，在于换工具的时候不用重来。上个月我把三个定时任务从一个客户端迁到另一个，改的是调用方式，规则一行没动——因为规则不在那个客户端里，在 `rules/RULES.md` 里。
-
 
 ## 3. 为什么不干脆合成一份
 
@@ -130,7 +130,6 @@ Claude Code 有 hooks，能在命令执行前后插钩子；别的工具没有�
 - Claude Code 2.1.278 发布页（含发布节奏统计）：https://www.havoptic.com/r/claude-code-2.1.278
 - AI Coding Roundup · 2026-09-18：https://oday-bakkour.com/blog/ai-coding-roundup-september-18-2026
 - AI Coding Roundup · 2026-09-19：https://oday-bakkour.com/blog/ai-coding-roundup-september-19-2026
-
 
 ---
 

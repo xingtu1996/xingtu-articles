@@ -1,11 +1,12 @@
 ---
-title: "PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness"
+title: "untitled"
 date: 2026-09-13
-slug: pec-2026-conference-field-notes
+slug: "pec-2026-conference-field-notes"
 category: "FDE · AI 工程化落地"
-summary: "一句话总结：2026 年 9 月 12 日，我去北京中关村参加 PEC 2026 AI 创新者大会，从上午坐到下午五点。上午四场圆桌，下午八场分享，中午还有三项"
-author: 行途 XingTu
+summary: "一句话总结：2026 年 9 月 12 日，我去北京中关村参加 PEC 2026 AI 创新者大会，从上午坐到下午五点。上午四场圆桌，下午八场分享，中午还有三项年度发布。台上讲 T"
+author: "行途 XingTu"
 ---
+
 > 一句话总结：2026 年 9 月 12 日，我去北京中关村参加 PEC 2026 AI 创新者大会，从上午坐到下午五点。上午四场圆桌，下午八场分享，中午还有三项年度发布。台上讲 Token 工厂、FDE、AI 出海、Harness。我发现自己过去一年在工作台里默默搭的东西，台上前辈们正在用更体系化的方式讲出来。
 
 先说结论。这一天最值的不是哪个新概念，是四件事被盖章了。FDE 从一个我自己带回来的词，变成行业报告里的正式范式；Harness 从一个小圈子的黑话，变成工程师的基本动作；AI 的能力边界被画到了明面上——能不能写下来，就是那条线；我自己走的路，方向没偏。
@@ -444,3 +445,5 @@ Skill 打架是什么样？他举了个例子：四十个 Skill 全预加载进�
 ---
 
 [⬅️ 上一篇：DeepSeek 升级没让我改一行配置，我却删了](2026-09-12-deepseek-upgrade-306-lines-removed.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：FDE 能力模型：8 个维度拆解，从技术到沟通的](2026-09-14-fde-capability-model-8-dimensions.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（FDE 方法论旗舰仓）

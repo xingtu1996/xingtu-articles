@@ -14,7 +14,7 @@ assets/YYYY/MM/<同名slug>/                       # 该文的配图素材包（
 assets/shared/                                   # 多篇共用图
 notes/                                           # 调研笔记（非发布文章）
 tuitu/                                           # 贴图卡（社交分发用）
-index.json                                       # 机器可读清单（含 prev/next 链）
+index.json                                       # 机器可读清单（含 prev/next/related_repos）
 ```
 
 **命名规则**：`YYYY-MM-DD-<英文slug>.md`，素材包目录与文件同名；每篇 frontmatter 必含 `title / date / slug / summary / category`。
@@ -23,6 +23,7 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 分类 |
 |------|------|------|
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 🚀 工具横评 · 模型实测 |
 | 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 🚀 工具横评 · 模型实测 |
@@ -32,7 +33,6 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 🚀 工具横评 · 模型实测 |
-| 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 🚀 工具横评 · 模型实测 |
 
 ## 📚 分类索引
 
@@ -40,16 +40,16 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 54 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 26 |
 | 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 6 |
 | 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 8 |
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 66 |
 | 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 97 |
 | 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md) | 141 |
-| 2026-09-13 | [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md) | 205 |
+| 2026-09-13 | [untitled](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md) | 205 |
 | 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-10-fde-ai-landing-people.md) | 170 |
 | 2026-09-04 | [Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-04-five-types-engineers.md) | 11 |
-| 2026-09- | [FDE 工作法：进场、在场、离场](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | - |
 | 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务'超卖'悬案的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/04/2026-04-15-microservice-overselling-ai-troubleshooting.md) | 116 |
 
 ### 🚀 工具横评 · 模型实测（13 篇）

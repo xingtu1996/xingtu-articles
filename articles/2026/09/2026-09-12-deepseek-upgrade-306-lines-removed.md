@@ -1,11 +1,12 @@
 ---
 title: "DeepSeek 升级没让我改一行配置，我却删了 306 行规则"
 date: 2026-09-12
-slug: deepseek-upgrade-306-lines-removed
+slug: "deepseek-upgrade-306-lines-removed"
 category: "工具横评 · 模型实测"
-summary: "一句话总结：2026 年 9 月中旬，我用的 API 平台把 DeepSeek 升级到 V4.1-Flash，公告写明「无需改任何配置」——旧模型名自动路由，配"
-author: 行途 XingTu
+summary: "一句话总结：2026 年 9 月中旬，我用的 API 平台把 DeepSeek 升级到 V4.1-Flash，公告写明「无需改任何配置」——旧模型名自动路由，配置确实一行没动。但 "
+author: "行途 XingTu"
 ---
+
 # DeepSeek 升级没让我改一行配置，我却删了 306 行规则
 
 > 一句话总结：2026 年 9 月中旬，我用的 API 平台把 DeepSeek 升级到 V4.1-Flash，公告写明「无需改任何配置」——旧模型名自动路由，配置确实一行没动。但 harness 里为旧模型短板写的兜底规则，从升级那一刻起成了负资产：识图必派子代理、重复约束、为常识付费的清单。按「删掉这条规则模型会犯错吗」这一句标准，我把 CLAUDE.md 从 445 行砍到 139 行，安全红线与 hook 门禁一条没动。
@@ -156,7 +157,6 @@ author: 行途 XingTu
 觉得值得转给朋友，也别客气。
 想第一时间收到推送，给「行途技术手记」加个星标。
 谢谢你看我的文章，下篇见。
-
 
 延伸阅读
 

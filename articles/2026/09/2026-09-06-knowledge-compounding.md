@@ -1,11 +1,12 @@
 ---
 title: "为什么你做了很多事，却什么都没留下？——一套普通人也能用的知识复利方法"
 date: 2026-09-06
-slug: knowledge-compounding
+slug: "knowledge-compounding"
 category: "认知复利 · 方法论"
-summary: "有时候停下来想想，会发现一个挺扎心的事：每天忙忙碌碌，一年下来回头看，好像什么都没留下。"
-author: 行途 XingTu
+summary: "!配图_开头引子图_黑白版.png(../../../assets/2026/09/2026-09-06-knowledge-compounding/配图_开头引子图_黑白版.pn"
+author: "行途 XingTu"
 ---
+
 # 为什么你做了很多事，却什么都没留下？——一套普通人也能用的知识复利方法
 
 ![配图_开头引子图_黑白版.png](../../../assets/2026/09/2026-09-06-knowledge-compounding/配图_开头引子图_黑白版.png)
@@ -288,7 +289,6 @@ harness到底是个工具，还是一条规矩？AI工程化的五级认知梯�
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。
 
-
 ---
 
 行途技术手记 · AI 时代的工程师成长与效率提升
@@ -333,3 +333,5 @@ harness到底是个工具，还是一条规矩？AI工程化的五级认知梯�
 ---
 
 [⬅️ 上一篇：GPT-6 Astra 与 Work Agent](2026-09-05-harness-cognition.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：Anthropic官方提示词手册：Fable 5](2026-09-07-fable-5.1-prompt-patterns.md)
+
+🔗 相关仓库：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)（方法论旗舰仓）

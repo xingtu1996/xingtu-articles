@@ -1,11 +1,12 @@
 ---
 title: "省 token 的第一性原理：把「不用推理的活」，从模型手里拿回来"
 date: 2026-08-28
-slug: save-token-first-principle
+slug: "save-token-first-principle"
 category: "工具横评 · 模型实测"
 summary: "发布日期：2026-08-28 · 数据来自团队 8 个月账单统计 · 配图自制"
-author: 行途 XingTu
+author: "行途 XingTu"
 ---
+
 # 省 token 的第一性原理：把「不用推理的活」，从模型手里拿回来
 
 > 发布日期：2026-08-28 · 数据来自团队 8 个月账单统计 · 配图自制
@@ -217,3 +218,5 @@ AI 跑一条命令，输出动辄几万字日志，如果你原样让它读，�
 ---
 
 [⬅️ 上一篇：智谱「牛来（Ox Alpha）」GLM-5.3 ](2026-08-27-glm-5.3-flash.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：Vibe Coder、FDE、Harness E](../09/2026-09-04-five-types-engineers.md)
+
+🔗 相关仓库：[tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench)（token 优化的实测账单与工具）

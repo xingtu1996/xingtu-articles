@@ -1,13 +1,12 @@
 ---
 title: "GPT-6 Astra 与 Work Agent 时代，Harness 是工具还是规矩？——基于五级认知梯度的 AI 工程化可控性研究"
 date: 2026-09-05
-slug: harness-cognition
+slug: "harness-cognition"
 category: "工具横评 · 模型实测"
-summary: "全文约 4900 字，预计阅读 12 分钟。
-
- 核心观点：harness 不是工具收藏，是 AI 规模化使用的前提。模型会变，Agent 形态会变，但'可控'"
-author: 行途 XingTu
+summary: "全文约 4900 字，预计阅读 12 分钟。 核心观点：harness 不是工具收藏，是 AI 规模化使用的前提。模型会变，Agent 形态会变，但'可控"
+author: "行途 XingTu"
 ---
+
 # GPT-6 Astra 与 Work Agent 时代，Harness 是工具还是规矩？——基于五级认知梯度的 AI 工程化可控性研究
 
 > 全文约 4900 字，预计阅读 12 分钟。
@@ -228,3 +227,5 @@ harness 不是银弹，它不能替你思考，不能替你做决策，不能替
 ---
 
 [⬅️ 上一篇：Vibe Coder、FDE、Harness E](2026-09-04-five-types-engineers.md) ｜ [📑 返回文章库](../../README.md) ｜ [➡️ 下一篇：为什么你做了很多事，却什么都没留下？——一套普通](2026-09-06-knowledge-compounding.md)
+
+🔗 相关仓库：[xingtu-harness](https://github.com/xingtu1996/xingtu-harness)（本文认知的落地脚手架）
