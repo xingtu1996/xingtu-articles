@@ -1,6 +1,6 @@
 # xingtu-articles · 行途文章库
 
-![Articles](https://img.shields.io/badge/articles-25-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Articles](https://img.shields.io/badge/articles-26-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 公众号「**行途技术手记**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
 
@@ -23,6 +23,7 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 分类 |
 |------|------|------|
+| 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 🚀 工具横评 · 模型实测 |
@@ -32,23 +33,23 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 🔧 FDE · AI 工程化落地 |
-| 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 🚀 工具横评 · 模型实测 |
 
 ## 📚 分类索引
 
-### 🔧 FDE · AI 工程化落地（11 篇）
+### 🔧 FDE · AI 工程化落地（12 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 54 |
+| 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 37 |
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 87 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 26 |
 | 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 6 |
 | 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 8 |
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 66 |
-| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 97 |
+| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 98 |
 | 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md) | 141 |
 | 2026-09-13 | [untitled](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md) | 205 |
-| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-10-fde-ai-landing-people.md) | 170 |
+| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-10-fde-ai-landing-people.md) | 171 |
 | 2026-09-04 | [Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-04-five-types-engineers.md) | 11 |
 | 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务'超卖'悬案的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/04/2026-04-15-microservice-overselling-ai-troubleshooting.md) | 116 |
 
@@ -56,8 +57,8 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 104 |
-| 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 98 |
+| 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 106 |
+| 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 101 |
 | 2026-09-21 | [我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-21-five-ai-tools-same-spec.md) | 17 |
 | 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 165 |
 | 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 443 |
@@ -78,7 +79,7 @@ index.json                                       # 机器可读清单（含 prev
 
 ## 🗂 按月归档
 
-[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（22 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09)
+[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（23 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09)
 
 ## 📄 License
 

@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "date": "2026-04-15",
@@ -334,6 +334,20 @@
       "path": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
       "original": null,
       "prev": "articles/2026/09/2026-09-24-token-09-context-management.md",
+      "next": "articles/2026/09/2026-09-28-skill-pipeline-split.md",
+      "related_repos": [
+        "xingtu-ai-engineering"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "一个 Skill 干所有事？我把它拆成了流水线",
+      "summary": "一个 Skill 装下六个环节，能跑，但坏了找不到哪段、改一处牵全身。拆成「总调度＋执行 Skill＋两个人工卡点」，就是传送带。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/09/2026-09-28-skill-pipeline-split.md",
+      "original": null,
+      "prev": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
       "next": null,
       "related_repos": [
         "xingtu-ai-engineering"
