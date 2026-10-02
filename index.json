@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "date": "2026-04-15",
@@ -348,6 +348,20 @@
       "path": "articles/2026/09/2026-09-28-skill-pipeline-split.md",
       "original": null,
       "prev": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
+      "next": "articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md",
+      "related_repos": [
+        "xingtu-ai-engineering"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "title": "AI 原生组织长什么样？没有岗位只有任务，普通人靠 high agency 保住竞争力",
+      "summary": "岗位正在消失，但工作没有。公司不再按岗位招人，而是按任务找人——竞争力从「在某个岗上干了几年」变成主动找场景、培养可迁移能力、对结果负责。",
+      "category": "AI 原生组织 · 认知升级",
+      "icon": "📌",
+      "path": "articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md",
+      "original": null,
+      "prev": "articles/2026/09/2026-09-28-skill-pipeline-split.md",
       "next": null,
       "related_repos": [
         "xingtu-ai-engineering"
