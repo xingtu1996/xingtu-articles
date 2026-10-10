@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "date": "2026-04-15",
@@ -362,9 +362,23 @@
       "path": "articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md",
       "original": null,
       "prev": "articles/2026/09/2026-09-28-skill-pipeline-split.md",
-      "next": null,
+      "next": "articles/2026/10/2026-10-10-ai-coding-half-is-waste.md",
       "related_repos": [
         "xingtu-ai-engineering"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "AI 编程贵，八成是浪费",
+      "summary": "拆开一次 AI 编程会话的账单：模型真在干活的部分只占一半，另一半是重复劳动。五层各自能堵多少，实测数字都在这。",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/10/2026-10-10-ai-coding-half-is-waste.md",
+      "original": null,
+      "prev": "articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md",
+      "next": null,
+      "related_repos": [
+        "tokenhub-bench"
       ]
     }
   ]
