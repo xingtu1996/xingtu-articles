@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "date": "2026-04-15",
@@ -376,10 +376,34 @@
       "path": "articles/2026/10/2026-10-10-ai-coding-half-is-waste.md",
       "original": null,
       "prev": "articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md",
-      "next": null,
+      "next": "articles/2026/10/2026-10-11-ai-memory-30-days.md",
       "related_repos": [
         "tokenhub-bench"
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "AI 的记忆只有 30 天：你的对话正在被定时删掉",
+      "summary": "Claude Code 默认 30 天清理本地会话，一行配置 cleanupPeriodDays 就能改成 10 年不过期。38 天攒下 17G token 的会话记录，这些没被清掉的东西才是真复利。",
+      "category": "AI 工程化实践",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-11-ai-memory-30-days.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-10-ai-coding-half-is-waste.md",
+      "next": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI 交叉对抗性审查：1 个模型，4 个专家，0 个额外账号",
+      "summary": "想组一桌专业杠精不用开 4 个 AI 账号。一个模型，预设 4 个对立角色轮流挑刺，动手前把漏洞揪出来。多个真实项目已跑通：单模型当 4 个专家用，人力不增，审查多一层，质量多一闸。",
+      "category": "AI 工程化实践",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-11-ai-memory-30-days.md",
+      "next": null,
+      "related_repos": null
     }
   ]
 }
