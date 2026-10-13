@@ -68,3 +68,5 @@ tags: "[AI工程化, 断点续传, High Agency]"
 这套东西我开源了，纯 bash，拷过去就能用：GitHub 搜 xingtu-sdd。
 
 我押的注是：接下来一年，会写代码的人不稀奇，能让 AI 在框里稳定交付的人才稀缺。刹车不是为了慢，是为了敢踩油门。
+
+🔗 相关仓库：[xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd)（本文「进度写成机器读得懂的文件」的规格驱动落地）

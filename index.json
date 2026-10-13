@@ -415,7 +415,9 @@
       "original": null,
       "prev": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
       "next": null,
-      "related_repos": null
+      "related_repos": [
+        "xingtu-sdd"
+      ]
     }
   ]
 }
