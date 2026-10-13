@@ -101,6 +101,14 @@ index.json                                       # 机器可读清单（含 prev
 
 [2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（4 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
 
+---
+
+## 关于作者 · 行途
+
+- 公众号「行途技术手记」（长文首发，微信搜索关注）
+- GitHub / X：`@xingtu1996` ｜ 博客：https://xingtu1996.github.io
+- 方法论旗舰仓：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)
+
 ## 📄 License
 
 文章内容 [CC BY-SA 4.0](./LICENSE)；引用请注明「行途 · 公众号行途技术手记」。
