@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "date": "2026-04-15",
@@ -402,6 +402,18 @@
       "path": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-11-ai-memory-30-days.md",
+      "next": "articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-13",
+      "title": "AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件",
+      "summary": "用AI写代码的人多半撞过三个坑——跑一半失忆、多AI并行打架、经验不沉淀。靠多写提示词没用，得把状态写成机器读得懂的文件。",
+      "category": "AI 工程化实战",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
       "next": null,
       "related_repos": null
     }
