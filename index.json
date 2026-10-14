@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "date": "2026-04-15",
@@ -414,10 +414,22 @@
       "path": "articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-12-adversarial-review-4-experts.md",
-      "next": null,
+      "next": "articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md",
       "related_repos": [
         "xingtu-sdd"
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法",
+      "summary": "Anthropic 工程师说 AI 最常见的失败是人说不清需求。官方口径加我 38 天 208 个会话的实测指向同一结论：解法不是更长的 prompt，是把目标、边界、验收写进文件。",
+      "category": "AI 工程化实战",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md",
+      "next": null,
+      "related_repos": null
     }
   ]
 }
