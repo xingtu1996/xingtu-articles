@@ -3,7 +3,7 @@ title: "为什么你做了很多事，却什么都没留下？——一套普通
 date: 2026-09-06
 slug: "knowledge-compounding"
 category: "认知复利 · 方法论"
-summary: "!配图_开头引子图_黑白版.png(../../../assets/2026/09/2026-09-06-knowledge-compounding/配图_开头引子图_黑白版.pn"
+summary: "每天忙忙碌碌，一年回头看好像什么都没留下。问题不在努力，在产出是「一次性消耗」还是「可复利资产」——这篇讲把内容变成知识资产的三步。"
 author: "行途 XingTu"
 ---
 

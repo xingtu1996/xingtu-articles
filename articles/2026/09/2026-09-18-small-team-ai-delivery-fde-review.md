@@ -3,7 +3,7 @@ title: "小团队加 AI，一个多月交付十多万行代码：一次 FDE 实�
 date: 2026-09-18
 slug: "small-team-ai-delivery-fde-review"
 category: "FDE · AI 工程化落地"
-summary: "!00-封面引子图(../../../assets/shared/00-封面引子图.png)"
+summary: "小团队加 AI，一个多月交付十多万行代码——这不是口号，是一次可复盘的 FDE 实战。这篇拆开讲：进场怎么摸清真实需求、在场怎么把 AI 塞进流水线、离场怎么让客户自己跑得起来。"
 author: "行途 XingTu"
 ---
 

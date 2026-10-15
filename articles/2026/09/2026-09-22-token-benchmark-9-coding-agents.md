@@ -3,7 +3,7 @@ title: "省token横评：9个主流编程Agent谁最省token"
 date: 2026-09-22
 slug: "token-benchmark-9-coding-agents"
 category: "工具横评 · 模型实测"
-summary: "!00-封面首图(../../../assets/2026/09/2026-09-22-token-benchmark-9-coding-agents/00-封面首图.png)"
+summary: "9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Agent 最费。"
 author: "行途 XingTu"
 ---
 

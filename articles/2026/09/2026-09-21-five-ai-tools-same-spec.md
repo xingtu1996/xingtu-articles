@@ -3,7 +3,7 @@ title: "我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code �
 date: 2026-09-21
 slug: "five-ai-tools-same-spec"
 category: "工具横评 · 模型实测"
-summary: "!00-引子图-AGENTSmd三入口(../../../assets/2026/09/2026-09-21-five-ai-tools-same-spec/00-引子图-AGEN"
+summary: "Claude Code 9 月 18 日那条更新，把我两个月前的一个土办法变成了官方支持。"
 author: "行途 XingTu"
 ---
 

@@ -3,7 +3,7 @@ title: "FDE 沟通三段论：拒绝需求但不拒绝人"
 date: 2026-09-20
 slug: "fde-communication-three-step"
 category: "FDE · AI 工程化落地"
-summary: "!00-引子图-三段论(../../../assets/2026/09/2026-09-20-fde-communication-three-step/00-引子图-三段论.png"
+summary: "我以前觉得技术人把代码写好就行，沟通是'软技能'，锦上添花。直到在客户现场被一句话教做人——前端同事回怼甲方技术负责人，群里瞬间冷场，所有人都在等有人站出来。"
 author: "行途 XingTu"
 ---
 

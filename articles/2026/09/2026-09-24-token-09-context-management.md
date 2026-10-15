@@ -3,7 +3,7 @@ title: "AI 越用越笨？问题不在模型，在上下文管理"
 date: 2026-09-24
 slug: "token-09-context-management"
 category: "FDE · AI 工程化落地"
-summary: "!00-封面引子图(../../../assets/shared/00-封面引子图.png)"
+summary: "我花 25 美元修一个 Bug，发现账单几乎全付给了被清空的缓存。AI 不是变笨了，是上下文没管好。这篇讲清楚 AI'变笨'的四个机制，"
 author: "行途 XingTu"
 ---
 

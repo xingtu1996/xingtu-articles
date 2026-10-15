@@ -3,7 +3,7 @@ title: "AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊�
 date: 2026-09-19
 slug: "fde-hiring-client-site-communication"
 category: "FDE · AI 工程化落地"
-summary: "!00-引子图-面试框架(../../../assets/2026/09/2026-09-19-fde-hiring-client-site-communication/00-引子"
+summary: "AI 工程师/FDE 的硬门槛不在 Prompt，在客户现场。会调模型的人很多，能在甲方会议室里把技术争议聊成共识的人很少——这篇讲为什么，以及怎么练。"
 author: "行途 XingTu"
 ---
 
