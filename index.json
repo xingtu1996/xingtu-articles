@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "date": "2026-04-15",
@@ -440,10 +440,22 @@
       "path": "articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md",
-      "next": null,
+      "next": "articles/2026/10/2026-10-16-ai-to-si-super-agent.md",
       "related_repos": [
         "xingtu-sdd"
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "title": "从 AI 到 SI：超级智能体越强，方向越要在人手里",
+      "summary": "AI 的定义正在升级：从「像人一样思考行动」走向「超过单个人类能力的超级智能体（SI）」。Claude 一次编排 1000 个 agent，记忆层工具集体爆发——但越强的工具越需要明确的方向：A…",
+      "category": "看懂 AI Agent",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-16-ai-to-si-super-agent.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md",
+      "next": null,
+      "related_repos": null
     }
   ]
 }

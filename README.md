@@ -1,6 +1,6 @@
 # xingtu-articles · 行途文章库
 
-![Articles](https://img.shields.io/badge/articles-33-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Articles](https://img.shields.io/badge/articles-34-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 公众号「**行途技术手记**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
 
@@ -23,6 +23,7 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 分类 |
 |------|------|------|
+| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent |
 | 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 📌 AI 工程化实战 |
 | 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 📌 AI 工程化实战 |
 | 2026-10-13 | [AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md) | 📌 AI 工程化实战 |
@@ -32,7 +33,6 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-09-29 | [AI 原生组织长什么样？没有岗位只有任务，普通人靠 high agency 保住竞争力](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md) | 📌 AI 原生组织 · 认知升级 |
 | 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 🔧 FDE · AI 工程化落地 |
-| 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 🔧 FDE · AI 工程化落地 |
 
 ## 📚 分类索引
 
@@ -41,7 +41,7 @@ index.json                                       # 机器可读清单（含 prev
 | 日期 | 标题 | 阅读 |
 |------|------|------|
 | 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 55 |
-| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 111 |
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 113 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 30 |
 | 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 9 |
 | 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 11 |
@@ -95,13 +95,19 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 28 |
-| 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 41 |
+| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 33 |
+| 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 43 |
 | 2026-10-13 | [AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md) | 49 |
+
+### 📌 看懂 AI Agent（1 篇）
+
+| 日期 | 标题 | 阅读 |
+|------|------|------|
+| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 18 |
 
 ## 🗂 按月归档
 
-[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（6 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
+[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（7 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
 
 ---
 
