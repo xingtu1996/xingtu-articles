@@ -133,7 +133,7 @@ Claude Code 有 hooks，能在命令执行前后插钩子；别的工具没有�
 
 ---
 
-> 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
+> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---

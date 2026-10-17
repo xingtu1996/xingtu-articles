@@ -119,7 +119,7 @@ author: "行途 XingTu"
 
 ---
 
-> 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
+> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---

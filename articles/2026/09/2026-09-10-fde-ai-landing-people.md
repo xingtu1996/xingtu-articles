@@ -268,7 +268,7 @@ FDE是什么 / FDE工程师 / 工信部AI服务商 / 前线部署工程师 / AI�
 既然看到这里了，说明这篇对你多少有点用。
 顺手点个赞、点个在看，就是对我最大的支持。
 觉得值得转给朋友，也别客气。
-想第一时间收到推送，给「行途技术手记」加个星标。
+想第一时间收到推送，给「行途 XingTu」加个星标。
 谢谢你看我的文章，下篇见。
 
 延伸阅读
@@ -276,7 +276,7 @@ FDE是什么 / FDE工程师 / 工信部AI服务商 / 前线部署工程师 / AI�
 [Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？](https://mp.weixin.qq.com/s/b5nsNKoY1gNvJqpwMYcVLA) —— FDE 在工程师谱系里的位置，一篇看懂
 [普通人也能看懂：AI Agent 到底是什么？三年，从会说话到会干活](https://mp.weixin.qq.com/s/n3K94FUTH20YnWJ8Ugqcvw) —— 先搞懂 Agent 是什么，再理解 FDE 在忙什么
 
-行途技术手记 · AI 时代的工程师成长与效率提升
+行途 XingTu · AI 时代的工程师成长与效率提升
 排版引擎：墨排 · md2wechat（行途自研）
 © 2026 行途 · 欢迎转载，注明出处 · 禁止未经授权用于 AI 训练
 

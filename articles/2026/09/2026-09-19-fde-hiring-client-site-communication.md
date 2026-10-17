@@ -272,7 +272,7 @@ Java 后端技术深度 15 分钟：最大权重，不压缩时间。Spring Boot
 - [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](https://mp.weixin.qq.com/s/UsmdZU_0SEzUwLtdhSylbg)
 - [炒作 FDE 是个奇葩事，会误导中国软件产业健康发展](https://mp.weixin.qq.com/s/dosnxTQngwZhwm3MfyTy9A)
 
-如果对你有启发，欢迎点赞、在看、转发；星标「行途技术手记」，第一时间收到下一篇。
+如果对你有启发，欢迎点赞、在看、转发；星标「行途 XingTu」，第一时间收到下一篇。
 
 **谢谢你看我的文章，下篇见。**
 
@@ -280,11 +280,11 @@ Java 后端技术深度 15 分钟：最大权重，不压缩时间。Spring Boot
 
 欢迎转载，注明出处 · 未经授权禁止用于 AI 训练
 
-关键词：AI 工程师招聘 / FDE 招聘 / 行途技术手记
+关键词：AI 工程师招聘 / FDE 招聘 / 行途 XingTu
 
 ---
 
-> 本文首发于公众号「行途技术手记」，作者 行途 XingTu。
+> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---
