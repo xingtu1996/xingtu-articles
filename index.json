@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "date": "2026-04-15",
@@ -454,6 +454,18 @@
       "path": "articles/2026/10/2026-10-16-ai-to-si-super-agent.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md",
+      "next": "articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-17",
+      "title": "写方案前，先让 10 个 AI 角色互怼",
+      "summary": "写方案前先组一桌专业杠精，10 个 AI 角色轮流挑刺、每条意见过反方证伪关——4 个设计缺陷在动手前被抓出。返工比审查贵。",
+      "category": "FDE · AI 工程化落地",
+      "icon": "🔧",
+      "path": "articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-16-ai-to-si-super-agent.md",
       "next": null,
       "related_repos": null
     }
