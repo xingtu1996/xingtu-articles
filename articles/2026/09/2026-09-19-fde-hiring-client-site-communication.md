@@ -4,14 +4,14 @@ date: 2026-09-19
 slug: "fde-hiring-client-site-communication"
 category: "FDE · AI 工程化落地"
 summary: "AI 工程师/FDE 的硬门槛不在 Prompt，在客户现场。会调模型的人很多，能在甲方会议室里把技术争议聊成共识的人很少——这篇讲为什么，以及怎么练。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛
 
 ![00-引子图-面试框架](../../../assets/2026/09/2026-09-19-fde-hiring-client-site-communication/00-引子图-面试框架.png)
 
-**行途导读**
+**行途技术导读**
 
 前段时间，我作为技术面试官，面试了几位全栈交付工程师（FDE 方向）候选人。多轮面试后，我把考察维度从"AI 工程化优先"调整为"客户现场沟通 + Java 双硬门槛"。最终定型为 3 硬门槛 + 4 核心 + 2 加分。这套方法论对你招人或自查都有用。
 
@@ -272,19 +272,19 @@ Java 后端技术深度 15 分钟：最大权重，不压缩时间。Spring Boot
 - [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](https://mp.weixin.qq.com/s/UsmdZU_0SEzUwLtdhSylbg)
 - [炒作 FDE 是个奇葩事，会误导中国软件产业健康发展](https://mp.weixin.qq.com/s/dosnxTQngwZhwm3MfyTy9A)
 
-如果对你有启发，欢迎点赞、在看、转发；星标「行途 XingTu」，第一时间收到下一篇。
+如果对你有启发，欢迎点赞、在看、转发；星标「行途技术」，第一时间收到下一篇。
 
 **谢谢你看我的文章，下篇见。**
 
-© 行途 XingTu · AI 时代的工程师成长与效率提升
+© 行途技术 · AI 时代的工程师成长与效率提升
 
 欢迎转载，注明出处 · 未经授权禁止用于 AI 训练
 
-关键词：AI 工程师招聘 / FDE 招聘 / 行途 XingTu
+关键词：AI 工程师招聘 / FDE 招聘 / 行途技术
 
 ---
 
-> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
+> 本文首发于公众号「行途技术」，作者 行途技术。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---

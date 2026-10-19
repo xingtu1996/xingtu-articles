@@ -4,7 +4,7 @@ date: 2026-09-16
 slug: "workbuddy-doubao-qwen-ecosystem-choice"
 category: "工具横评 · 模型实测"
 summary: "一句话摘要：翻了三家大厂离职与在职资深从业者的公开访谈，三款工具各跑了一段真实工作流。判断：这场三国杀刚开打，终局跟协同软件绑死。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # 员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本
@@ -257,7 +257,7 @@ WorkBuddy / 豆包工作 / 千问办公 / AI Agent推荐 / Work Agent对比 / �
 - [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](https://mp.weixin.qq.com/s/UsmdZU_0SEzUwLtdhSylbg)
   — 大会现场观察，本篇「老板视角」三件事与「入口/核心两层」在会上被反复验证
 
-## 关于行途
+## 关于行途技术
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。热点只当切口，不做资讯搬运，落点永远是可抄的作业；只讲那些「工具会变，但思想不变」的东西。如果你也在搭自己的 harness，或者对 AI 工程化有疑问，欢迎关注。
 

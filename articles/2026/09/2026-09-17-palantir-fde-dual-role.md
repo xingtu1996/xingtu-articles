@@ -4,7 +4,7 @@ date: 2026-09-17
 slug: "palantir-fde-dual-role"
 category: "FDE · AI 工程化落地"
 summary: "一句话摘要：Palantir 跑通 AI 落地靠两个人：Echo 负责懂，Delta 负责造。这篇拆机制，对项目，一个人顶两个角色。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米
@@ -25,7 +25,7 @@ Palantir 值近 4000 亿美元。这家公司最值钱的东西不是模型，�
 
 | 缩写 | 全称 | 中文一句话 |
 |------|------|-----------|
-| FDE | Forward Deployed Engineer | 前线部署工程师（官方岗位）：驻扎客户现场、端到端交付。行途也把它展开成「前沿部署 + 全栈」两种理解 |
+| FDE | Forward Deployed Engineer | 前线部署工程师（官方岗位）：驻扎客户现场、端到端交付。行途技术也把它展开成「前沿部署 + 全栈」两种理解 |
 | Echo | Deployment Strategist | 部署战略师（回声）：Palantir 发明，驻扎客户一线，把模糊需求「回响」成可执行语言 |
 | Delta | Forward Deployed Software Engineer（FDSE） | 前线部署软件工程师（增量）：Palantir 官方角色，在客户现场把方案做出来，交付现状到目标状态的增量 |
 | FDPM | Frontier Deployment Product Manager | 前沿部署产品经理（行业演绎，非官方）：FDE 的业务搭档（Mini CEO），管客户关系、业务理解、验收标准 |
@@ -166,11 +166,11 @@ Echo 的能力是读懂业务模式——知道客户要什么、卡在哪、谁
 - [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://mp.weixin.qq.com/s/Ys2TJql0DeoPWlqjXvHM0w)
   — AI 落地缺的不是模型，是现场的人
 
-## 关于行途
+## 关于行途技术
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。热点只当切口，不做资讯搬运，落点永远是可抄的作业；只讲那些「工具会变，但思想不变」的东西。如果你也在搭自己的 harness，或者对 AI 工程化有疑问，欢迎关注。
 
-顺手点个赞、点个在看，就是对我最大的支持。觉得值得转给朋友，也别客气。想第一时间收到推送，给「行途 XingTu」加个星标。谢谢你看我的文章，下篇见。
+顺手点个赞、点个在看，就是对我最大的支持。觉得值得转给朋友，也别客气。想第一时间收到推送，给「行途技术」加个星标。谢谢你看我的文章，下篇见。
 
 ---
 

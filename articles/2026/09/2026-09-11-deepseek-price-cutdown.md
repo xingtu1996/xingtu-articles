@@ -4,7 +4,7 @@ date: 2026-09-11
 slug: "deepseek-price-cutdown"
 category: "工具横评 · 模型实测"
 summary: "一句话总结：DeepSeek 2026 年 9 月 10 日 12:00 上线 DeepSeek V4.1 Flash（基于 DeepSeek V4 Flash 的轻量架构），把 "
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%
@@ -250,7 +250,7 @@ Flash 级模型 + 模型路由 + 缓存优化的工程化组合。用 20% 的成
 
 # 下一篇预告
 
-下一篇写「当 DeepSeek V4 Pro 下线，你的 harness 必须做什么」—— 9 月 14 日前发。订阅「行途 XingTu」第一时间收。
+下一篇写「当 DeepSeek V4 Pro 下线，你的 harness 必须做什么」—— 9 月 14 日前发。订阅「行途技术」第一时间收。
 
 # 延伸阅读
 
@@ -258,14 +258,14 @@ Flash 级模型 + 模型路由 + 缓存优化的工程化组合。用 20% 的成
 - [DeepSeek V4.1 Flash 内测上手：会看图了、快了 5.5 倍、价格一分没涨](https://mp.weixin.qq.com/s/pLp80eLob70ojOZIoQllNg)——这次降价的主角，内测当天的上手记录。
 - [智谱「牛来（Ox Alpha）」GLM-5.3 Flash 正式开源：输入 0.4 元 / 输出 1.4 元，比 DeepSeek V4 Flash 还便宜](https://mp.weixin.qq.com/s/_PqvmYkiitgfjJtbiOG_CQ)——文中横评的另一位主角，Flash 价格战的另一半。
 
-# 关于行途
+# 关于行途技术
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。在这个 influencers 满天飞、builders 闷头干活的时代，我选择做后者——热点只当切口，不做资讯搬运，落点永远是可抄的作业；只讲那些「工具会变，但思想不变」的东西。如果你也在搭自己的 harness，或者对 AI 工程化有疑问，欢迎关注。
 
 既然看到这里了，说明这篇对你多少有点用。
 顺手点个赞、点个在看，就是对我最大的支持。
 觉得值得转给朋友，也别客气。
-想第一时间收到推送，给「行途 XingTu」加个星标。
+想第一时间收到推送，给「行途技术」加个星标。
 谢谢你看我的文章，下篇见。
 
 <!-- 搜一搜关键词：DeepSeek V4.1 Flash / DeepSeek V4 Pro 9/14 下线 / Flash 降价 / AI 应用成本 / 大模型价格战 / 斩杀线 / 模型路由 / Causal-Encoder-Decoder -->

@@ -4,14 +4,14 @@ date: 2026-09-22
 slug: "token-benchmark-9-coding-agents"
 category: "工具横评 · 模型实测"
 summary: "9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Agent 最费。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # 省token横评：9个主流编程Agent谁最省token
 
 ![00-封面首图](../../../assets/2026/09/2026-09-22-token-benchmark-9-coding-agents/00-封面首图.png)
 
-> 行途导读：9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Agent 最费。文末附一张选型决策树和四条通用省 token 配置。
+> 行途技术导读：9 个主流编程 Agent，从省 token 角度分成三档。终端 Agent 最省——直接操作代码不用模拟 GUI；AI IDE 中等；独立云端 Agent 最费。文末附一张选型决策树和四条通用省 token 配置。
 
 先说结论：从省 token 角度，9 个编程 Agent 分成三档。第一档最省——终端 Agent 加开源（Claude Code、OpenCode、Pi），核心原因是直接操作代码不需要模拟 GUI；第二档中等——AI IDE（Cursor、Kiro、Copilot、Windsurf、Trae），功能多但上下文管理偏重；第三档最费——独立云端 Agent（Devin，已并入 Devin Desktop），自主完成整个任务上下文很长。我的建议是：程序员会用终端选 Claude Code 或 Codex，喜欢 IDE 里操作选 Cursor 或 Kiro，预算有限选 OpenCode 或 Pi，想让 AI 独立完成任务选 Devin 但要接受高 token 消耗。不管用哪个，开检索层加协议层加散文层都能再省一大截。
 
@@ -166,7 +166,7 @@ Pi：走另一条省 token 路线的。开源，系统 prompt 不到 1000 tokens
 
 ---
 
-> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
+> 本文首发于公众号「行途技术」，作者 行途技术。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---

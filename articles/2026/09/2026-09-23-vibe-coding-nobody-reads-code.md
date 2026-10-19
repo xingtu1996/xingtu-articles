@@ -4,7 +4,7 @@ date: 2026-09-23
 slug: "vibe-coding-nobody-reads-code"
 category: "工具横评 · 模型实测"
 summary: "Vibe coding 出来的代码没人看了。我花在 spec 上的时间开始超过写代码——这不是退步，是 AI 把工程师的价值从「写」挪到了「定义清楚要写什么」。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 ![00-引子图-vibe-coding](../../../assets/2026/09/2026-09-23-vibe-coding-nobody-reads-code/00-引子图-vibe-coding.png)

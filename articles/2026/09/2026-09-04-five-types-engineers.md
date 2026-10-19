@@ -3,13 +3,13 @@ title: "Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，�
 date: 2026-09-04
 slug: "five-types-engineers"
 category: "FDE · AI 工程化落地"
-summary: "系列：AI 时代的角色（新开）｜ B 档 ｜ 行途 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）"
-author: "行途 XingTu"
+summary: "系列：AI 时代的角色（新开）｜ B 档 ｜ 行途技术 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）"
+author: "行途技术"
 ---
 
 # Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？
 
-> 系列：AI 时代的角色（新开）｜ B 档 ｜ 行途 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）
+> 系列：AI 时代的角色（新开）｜ B 档 ｜ 行途技术 ｜ 草稿已导入（appmsgid=100000183，9/3 v2）
 
 ---
 
@@ -135,9 +135,9 @@ FDE 和 AI Builder 都贴在"离业务最近"那根轴上，落点不同：**Bui
 
 ## 📱 关注公众号获取更多
 
-> 本文首发于公众号「**行途 XingTu**」，关注后获取全文 PDF 与配套资源。
+> 本文首发于公众号「**行途技术**」，关注后获取全文 PDF 与配套资源。
 
-**公众号：行途 XingTu**（搜索名称关注）
+**公众号：行途技术**（搜索名称关注）
 
 **推荐阅读**：
 - [Harness是工具还是规矩？AI工程化的五级认知梯度](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-05-harness-cognition.md)
@@ -148,7 +148,7 @@ FDE 和 AI Builder 都贴在"离业务最近"那根轴上，落点不同：**Bui
 
 ---
 
-## 👤 关于行途
+## 👤 关于行途技术
 
 一线 AI 工程化实践者，深度写代码。从 Java 后端起步，转向 AI 原生全栈开发，专注 AI 工程化（Harness / Agent / MCP / Skill / Rules）这条"把 AI 变成稳定生产力"的路线。
 
@@ -162,7 +162,7 @@ FDE 和 AI Builder 都贴在"离业务最近"那根轴上，落点不同：**Bui
 
 ## 📄 版权声明
 
-- 本文为原创，首发于公众号「行途 XingTu」
+- 本文为原创，首发于公众号「行途技术」
 - 转载请注明出处，禁止未经授权用于 AI 模型训练
 - 文章观点仅代表个人，不构成任何投资或职业建议
 

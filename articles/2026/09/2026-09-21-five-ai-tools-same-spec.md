@@ -4,14 +4,14 @@ date: 2026-09-21
 slug: "five-ai-tools-same-spec"
 category: "工具横评 · 模型实测"
 summary: "Claude Code 9 月 18 日那条更新，把我两个月前的一个土办法变成了官方支持。"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # 我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了
 
 ![00-引子图-AGENTSmd三入口](../../../assets/2026/09/2026-09-21-five-ai-tools-same-spec/00-引子图-AGENTSmd三入口.png)
 
-### 行途导读
+### 行途技术导读
 
 Claude Code 9 月 18 日那条更新，把我两个月前的一个土办法变成了官方支持。这篇讲清楚三件事：我的三个入口文件各管什么、为什么不能合成一份、以及同一周那次让所有网关用户集体报错的事故。
 
@@ -133,7 +133,7 @@ Claude Code 有 hooks，能在命令执行前后插钩子；别的工具没有�
 
 ---
 
-> 本文首发于公众号「行途 XingTu」，作者 行途 XingTu。
+> 本文首发于公众号「行途技术」，作者 行途技术。
 > GitHub 镜像：xingtu-articles · 技术细节终会过时，工程思想历久弥新。
 
 ---

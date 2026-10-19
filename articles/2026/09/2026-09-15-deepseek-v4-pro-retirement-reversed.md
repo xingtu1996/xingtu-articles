@@ -4,7 +4,7 @@ date: 2026-09-15
 slug: "deepseek-v4-pro-retirement-reversed"
 category: "工具横评 · 模型实测"
 summary: "一句话摘要：原定 9 月 14 日 12:00 下线的 DeepSeek V4 Pro，在「死线」当天被官方按住了——继续提供 API 服务，计费方式不变。两天三个版本，这场没完成"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 # DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断
@@ -169,11 +169,11 @@ DeepSeek V4 Pro 不下线 / V4 Pro 继续服务 / DeepSeek V4.1 Flash 价格 / A
 
 ---
 
-关于行途
+关于行途技术
 
-行途，一线 AI 工程化实践者。现在专注 AI 时代个人 IP 与内容资产复利工程，分享 AI 工程化实战与普通人的技术成长路。
+行途技术，一线 AI 工程化实践者。现在专注 AI 时代个人 IP 与内容资产复利工程，分享 AI 工程化实战与普通人的技术成长路。
 
-© 2026 行途 XingTu · 原创内容，转载请注明出处
+© 2026 行途技术 · 原创内容，转载请注明出处
 
 ---
 

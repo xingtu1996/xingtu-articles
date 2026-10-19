@@ -4,7 +4,7 @@ date: 2026-09-13
 slug: "pec-2026-conference-field-notes"
 category: "FDE · AI 工程化落地"
 summary: "一句话总结：2026 年 9 月 12 日，我去北京中关村参加 PEC 2026 AI 创新者大会，从上午坐到下午五点。上午四场圆桌，下午八场分享，中午还有三项年度发布。台上讲 T"
-author: "行途 XingTu"
+author: "行途技术"
 ---
 
 > 一句话总结：2026 年 9 月 12 日，我去北京中关村参加 PEC 2026 AI 创新者大会，从上午坐到下午五点。上午四场圆桌，下午八场分享，中午还有三项年度发布。台上讲 Token 工厂、FDE、AI 出海、Harness。我发现自己过去一年在工作台里默默搭的东西，台上前辈们正在用更体系化的方式讲出来。
@@ -428,7 +428,7 @@ Skill 打架是什么样？他举了个例子：四十个 Skill 全预加载进�
 - [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://mp.weixin.qq.com/s?__biz=MzU0MjgyNDM2MQ==&mid=2247484108&idx=1&sn=b9d2a9d113bf4aefcd6a3d8a0a66016e&scene=21#wechat_redirect)
 - [DeepSeek 升级没让我改一行配置，我却删了 306 行规则](https://mp.weixin.qq.com/s/J2l9Zg804-noNGadzzpbiQ)
 
-## 关于行途
+## 关于行途技术
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。热点只当切口，不做资讯搬运，落点永远是可抄的作业；只讲那些「工具会变，但思想不变」的东西。如果你也在搭自己的 harness，或者对 AI 工程化有疑问，欢迎关注。
 
