@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 37,
+  "total": 38,
   "articles": [
     {
       "date": "2026-04-15",
@@ -490,6 +490,18 @@
       "path": "articles/2026/10/2026-10-20-two-words-bypass-process.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md",
+      "next": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-21",
+      "title": "项目范围越失控，客户越满意？一个 FDE 项目的真相",
+      "summary": "项目范围越失控，客户越满意？当 AI 把开发成本压到极低，守范围不如解决真问题——一个 FDE 项目的真相。",
+      "category": "FDE实战",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-20-two-words-bypass-process.md",
       "next": null,
       "related_repos": null
     }
