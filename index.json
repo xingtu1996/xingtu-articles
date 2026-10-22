@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "date": "2026-04-15",
@@ -502,6 +502,18 @@
       "path": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-20-two-words-bypass-process.md",
+      "next": "articles/2026/10/2026-10-22-ai-skill-regression-gate.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-22",
+      "title": "你的 AI Skill，改完真的不退化吗？",
+      "summary": "阿里开源 skill-up，把软件测试方法论搬进 AI Skill 评测。三种判定、用例接 CI、用 Skill 测 Skill，我的 44 个 Skill 先裸奔为敬。",
+      "category": "AI工程化",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-22-ai-skill-regression-gate.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
       "next": null,
       "related_repos": null
     }
