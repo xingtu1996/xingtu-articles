@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 39,
+  "total": 41,
   "articles": [
     {
       "date": "2026-04-15",
@@ -514,6 +514,30 @@
       "path": "articles/2026/10/2026-10-22-ai-skill-regression-gate.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
+      "next": "articles/2026/10/2026-10-23-ai-command-noise-rtk.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-23",
+      "title": "AI 跑命令，95% 的输出都是噪音？试试 rtk",
+      "summary": "AI 跑命令 95% 输出是噪音，rtk 用协议层过滤压掉 93.6%，附实测与接入方法。",
+      "category": "AI工程化",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-23-ai-command-noise-rtk.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-22-ai-skill-regression-gate.md",
+      "next": "articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-24",
+      "title": "企业花百万买 AI 工具，为什么还是用不起来？三个错位",
+      "summary": "工具买了一堆，没人真用起来。问题不在员工也不在工具，是渠道、视角、尺度三个错位没对上。",
+      "category": "看懂FDE",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-23-ai-command-noise-rtk.md",
       "next": null,
       "related_repos": null
     }
