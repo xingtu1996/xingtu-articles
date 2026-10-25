@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 41,
+  "total": 42,
   "articles": [
     {
       "date": "2026-04-15",
@@ -538,6 +538,18 @@
       "path": "articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-23-ai-command-noise-rtk.md",
+      "next": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-25",
+      "title": "交付源码，其实是最后一步",
+      "summary": "过去交付靠源码加人天，人走活就凉。AI 时代值钱的是知识清单、工程体系和统一 AI 入口，源码反而最后才交。",
+      "category": "看懂FDE",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md",
       "next": null,
       "related_repos": null
     }

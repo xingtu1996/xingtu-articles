@@ -1,6 +1,6 @@
 # xingtu-articles · 行途文章库
 
-![Articles](https://img.shields.io/badge/articles-41-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Articles](https://img.shields.io/badge/articles-42-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 公众号「**行途 XingTu**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
 
@@ -23,6 +23,7 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 分类 |
 |------|------|------|
+| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 📌 看懂FDE |
 | 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 📌 看懂FDE |
 | 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 📌 AI工程化 |
 | 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 📌 AI工程化 |
@@ -32,7 +33,6 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent |
 | 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 📌 AI 工程化实战 |
-| 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 📌 AI 工程化实战 |
 
 ## 📚 分类索引
 
@@ -42,7 +42,7 @@ index.json                                       # 机器可读清单（含 prev
 |------|------|------|
 | 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 6 |
 | 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 55 |
-| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 203 |
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 204 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 30 |
 | 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 9 |
 | 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 11 |
@@ -121,15 +121,16 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 28 |
 | 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 8 |
 
-### 📌 看懂FDE（1 篇）
+### 📌 看懂FDE（2 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
+| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | - |
 | 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 5 |
 
 ## 🗂 按月归档
 
-[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（14 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
+[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（15 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
 
 ---
 
