@@ -563,7 +563,9 @@
       "original": null,
       "prev": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
       "next": null,
-      "related_repos": null
+      "related_repos": [
+        "xingtu-sdd"
+      ]
     }
   ]
 }

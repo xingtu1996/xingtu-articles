@@ -143,3 +143,4 @@ Brotli 漏洞信源（10-25 v3 晚间轮新增）：
 - **「根因 2 月已修未发版」口径（中文媒体转述，OpenAI 官方报告原始链接未逐字核对）**：FreeBuf https://www.freebuf.com/articles/ai-security/508557.html ；Yahoo 财经香港 https://hk.finance.yahoo.com/news/ai代理竟能突破沙箱-繞過防火牆-openai揭露多項內部漏洞-訓練暫停11天後重啟-034003642.html
 - **SecurityWeek 报道**（恶意包估计被下载逾 4.9 万次；企业私仓客户不受影响；第三方 Wiz 观测到被盗凭据被用于调用云端模型）：https://securityweek.com/litellm-compromised-in-fresh-supply-chain-attack 
 
+🔗 相关仓库：[xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd)（本文四道质量门禁的规格驱动落地：需求/方案/编码/审查各设一道闸）
