@@ -1,6 +1,6 @@
 # xingtu-articles · 行途文章库
 
-![Articles](https://img.shields.io/badge/articles-42-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Articles](https://img.shields.io/badge/articles-43-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 公众号「**行途 XingTu**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
 
@@ -23,6 +23,7 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 分类 |
 |------|------|------|
+| 2026-10-26 | [代码写得飞快，交付还是慢：70+ 企业的四道质量门禁](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-26-four-quality-gates.md) | 📌 AI工程化实战 |
 | 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 📌 看懂FDE |
 | 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 📌 看懂FDE |
 | 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 📌 AI工程化 |
@@ -32,7 +33,6 @@ index.json                                       # 机器可读清单（含 prev
 | 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 📌 AI 工程化实践 |
 | 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 🔧 FDE · AI 工程化落地 |
 | 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent |
-| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 📌 AI 工程化实战 |
 
 ## 📚 分类索引
 
@@ -40,17 +40,17 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 6 |
-| 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 55 |
-| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 204 |
-| 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 30 |
-| 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 9 |
-| 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 11 |
+| 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 8 |
+| 2026-09-28 | [一个 Skill 干所有事？我把它拆成了流水线](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-28-skill-pipeline-split.md) | 57 |
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 209 |
+| 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 32 |
+| 2026-09-20 | [FDE 沟通三段论：拒绝需求但不拒绝人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-20-fde-communication-three-step.md) | 10 |
+| 2026-09-19 | [AI 工程师/FDE 招聘：会调 Prompt 不够，能去客户现场聊才是硬门槛](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-19-fde-hiring-client-site-communication.md) | 12 |
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 75 |
-| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 105 |
+| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 106 |
 | 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-14-fde-capability-model-8-dimensions.md) | 152 |
 | 2026-09-13 | [untitled](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-13-pec-2026-conference-field-notes.md) | 207 |
-| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-10-fde-ai-landing-people.md) | 183 |
+| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-10-fde-ai-landing-people.md) | 184 |
 | 2026-09-04 | [Vibe Coder、FDE、Harness Engineer……AI 时代的 5 种工程师，你是哪种？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-04-five-types-engineers.md) | 11 |
 | 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务'超卖'悬案的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/04/2026-04-15-microservice-overselling-ai-troubleshooting.md) | 118 |
 
@@ -58,10 +58,10 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-10 | [AI 编程贵，八成是浪费](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-10-ai-coding-half-is-waste.md) | 79 |
-| 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 110 |
-| 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 139 |
-| 2026-09-21 | [我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-21-five-ai-tools-same-spec.md) | 21 |
+| 2026-10-10 | [AI 编程贵，八成是浪费](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-10-ai-coding-half-is-waste.md) | 81 |
+| 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 112 |
+| 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 142 |
+| 2026-09-21 | [我给 5 个 AI 工具写同一份说明书，两个月后 Claude Code 追上来了](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-21-five-ai-tools-same-spec.md) | 22 |
 | 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 174 |
 | 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 445 |
 | 2026-09-12 | [DeepSeek 升级没让我改一行配置，我却删了 306 行规则](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-12-deepseek-upgrade-306-lines-removed.md) | 8 |
@@ -83,54 +83,60 @@ index.json                                       # 机器可读清单（含 prev
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-09-29 | [AI 原生组织长什么样？没有岗位只有任务，普通人靠 high agency 保住竞争力](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md) | 35 |
+| 2026-09-29 | [AI 原生组织长什么样？没有岗位只有任务，普通人靠 high agency 保住竞争力](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-29-ai-native-org-tasks-not-positions.md) | 37 |
 
 ### 📌 AI 工程化实践（4 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-20 | [我说了句「改吧」，AI 就不按规矩来了？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-20-two-words-bypass-process.md) | 23 |
-| 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 5 |
-| 2026-10-12 | [AI 交叉对抗性审查：1 个模型，4 个专家，0 个额外账号](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-12-adversarial-review-4-experts.md) | 14 |
-| 2026-10-11 | [AI 的记忆只有 30 天：你的对话正在被定时删掉](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-11-ai-memory-30-days.md) | 33 |
+| 2026-10-20 | [我说了句「改吧」，AI 就不按规矩来了？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-20-two-words-bypass-process.md) | 24 |
+| 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 7 |
+| 2026-10-12 | [AI 交叉对抗性审查：1 个模型，4 个专家，0 个额外账号](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-12-adversarial-review-4-experts.md) | 15 |
+| 2026-10-11 | [AI 的记忆只有 30 天：你的对话正在被定时删掉](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-11-ai-memory-30-days.md) | 35 |
 
 ### 📌 AI 工程化实战（3 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 34 |
-| 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 45 |
-| 2026-10-13 | [AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md) | 51 |
+| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 36 |
+| 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 47 |
+| 2026-10-13 | [AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md) | 54 |
 
 ### 📌 看懂 AI Agent（1 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 29 |
+| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 31 |
 
 ### 📌 FDE实战（1 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 12 |
+| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 15 |
 
 ### 📌 AI工程化（2 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 28 |
-| 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 8 |
+| 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 32 |
+| 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 10 |
 
 ### 📌 看懂FDE（2 篇）
 
 | 日期 | 标题 | 阅读 |
 |------|------|------|
-| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | - |
-| 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 5 |
+| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 24 |
+| 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 8 |
+
+### 📌 AI工程化实战（1 篇）
+
+| 日期 | 标题 | 阅读 |
+|------|------|------|
+| 2026-10-26 | [代码写得飞快，交付还是慢：70+ 企业的四道质量门禁](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-26-four-quality-gates.md) | 35 |
 
 ## 🗂 按月归档
 
-[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（15 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
+[2026-04（1 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/04) ｜ [2026-08（2 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/08) ｜ [2026-09（24 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/09) ｜ [2026-10（16 篇）](https://github.com/xingtu1996/xingtu-articles/tree/main/articles/2026/10)
 
 ---
 

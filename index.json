@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 42,
+  "total": 43,
   "articles": [
     {
       "date": "2026-04-15",
@@ -550,6 +550,18 @@
       "path": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md",
+      "next": "articles/2026/10/2026-10-26-four-quality-gates.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-26",
+      "title": "代码写得飞快，交付还是慢：70+ 企业的四道质量门禁",
+      "summary": "引入 AI 编程工具后代码写得飞快，交付却没变快。70+ 企业实践：四道质量门禁把返工拦在发生前，人只在三个节点拍板。",
+      "category": "AI工程化实战",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-26-four-quality-gates.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
       "next": null,
       "related_repos": null
     }
