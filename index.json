@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 43,
+  "total": 44,
   "articles": [
     {
       "date": "2026-04-15",
@@ -562,10 +562,22 @@
       "path": "articles/2026/10/2026-10-26-four-quality-gates.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-25-deliver-source-code-last.md",
-      "next": null,
+      "next": "articles/2026/10/2026-10-27-token-06-headroom.md",
       "related_repos": [
         "xingtu-sdd"
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "title": "token 效率工具 Headroom：官方说代码省 20%，日志能省 99%",
+      "summary": "token 效率工具 Headroom：官方说代码省 20%、日志省 99%；实测 JSON 61.6%、日志 99.25%，附 rtk 对比与同类工具。",
+      "category": "工具横评 · 模型实测",
+      "icon": "🚀",
+      "path": "articles/2026/10/2026-10-27-token-06-headroom.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-26-four-quality-gates.md",
+      "next": null,
+      "related_repos": null
     }
   ]
 }
