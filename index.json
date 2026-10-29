@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 44,
+  "total": 47,
   "articles": [
     {
       "date": "2026-04-15",
@@ -576,6 +576,42 @@
       "path": "articles/2026/10/2026-10-27-token-06-headroom.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-26-four-quality-gates.md",
+      "next": "articles/2026/10/2026-10-28-fde-data-cleaning.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-28",
+      "title": "先别急着上模型：万条评论洗成一套数据，三个业务共用",
+      "summary": "",
+      "category": "未分类",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-28-fde-data-cleaning.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-27-token-06-headroom.md",
+      "next": "articles/2026/10/2026-10-28-fde-fund-report.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-28",
+      "title": "预估六周，九天交付：第一条自动化流程，为什么先选资金报表",
+      "summary": "",
+      "category": "未分类",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-28-fde-fund-report.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-28-fde-data-cleaning.md",
+      "next": "articles/2026/10/2026-10-29-agent-daodi-shenme.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Agent 到底是什么？AI 开始自己干活，差的不是模型",
+      "summary": "AI 已经在动手干活了，但企业里大多数人还是说不清「Agent 到底是什么」。我在项目沟通里反复遇到：客户干脆地问「你们支不支持 A2A」，反问要解决哪个系统的问题时，却答不…",
+      "category": "AI Agent 科普",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-29-agent-daodi-shenme.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-28-fde-fund-report.md",
       "next": null,
       "related_repos": null
     }
