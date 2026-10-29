@@ -1,8 +1,8 @@
 # xingtu-articles · 行途文章库
 
-![Articles](https://img.shields.io/badge/articles-44-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Articles](https://img.shields.io/badge/articles-46-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-公众号「**行途 XingTu**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
+公众号「**行途技术手记**」已发布文章的公开镜像库：正文 Markdown + 配图素材包，按年月归档。
 
 > 首发均在公众号，本仓为可检索归档。可视化浏览见 👉 [文章星图](https://xingtu1996.github.io/articles.html)
 
@@ -141,13 +141,13 @@ index.json                                       # 机器可读清单（含 prev
 
 ---
 
-## 关于作者 · 行途
+## 关于作者 · 行途 XingTu
 
-- 公众号「行途 XingTu」（长文首发，微信搜索关注）
+- 公众号「行途技术手记」（长文首发，微信搜索关注）
 - GitHub / X：`@xingtu1996` ｜ 博客：https://xingtu1996.github.io
 - 方法论旗舰仓：[xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering)
 
 
 ## 📄 License
 
-文章内容 [CC BY-SA 4.0](./LICENSE)；引用请注明「行途技术 · 公众号行途 XingTu」。
+文章内容 [CC BY-SA 4.0](./LICENSE)；引用请注明「行途 XingTu · 公众号行途技术手记」。
