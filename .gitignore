@@ -15,3 +15,6 @@ _assets/private/
 *.bak
 
 *.bak*
+
+# 未发布/裁决类内容禁止进公开仓（2026-11-02 起）
+_pending-review/
