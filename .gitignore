@@ -13,3 +13,5 @@
 _assets/private/
 
 *.bak
+
+*.bak*
