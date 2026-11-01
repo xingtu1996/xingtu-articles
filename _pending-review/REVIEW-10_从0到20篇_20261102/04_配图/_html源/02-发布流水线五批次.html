@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;background:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;padding:56px 56px 48px;}
+h2{font-size:38px;font-weight:800;color:#1a1a1a;margin-bottom:8px;}
+.lead{font-size:24px;color:#7A8087;margin-bottom:40px;}
+.flow{display:flex;align-items:stretch;gap:0;}
+.step{flex:1;border:2px solid #eef0f2;border-radius:12px;padding:22px 14px;text-align:center;}
+.step .ic{font-size:30px;margin-bottom:10px;}
+.step .t{font-size:22px;font-weight:800;color:#1a1a1a;line-height:1.3;}
+.step.hot{border-color:#F2644F;background:#FFF7F5;}
+.step.hot .t{color:#F2644F;}
+.arr{display:flex;align-items:center;justify-content:center;width:34px;flex:none;font-size:26px;color:#F2644F;font-weight:800;}
+.note{margin-top:34px;border-left:4px solid #F2644F;padding:14px 20px;font-size:24px;color:#2b2f36;line-height:1.6;background:#fff;}
+.foot{margin-top:26px;font-size:22px;color:#A8ADB3;}
+</style></head><body>
+<h2>一篇稿的出厂流水线</h2>
+<div class="lead">15 篇下半月稿子，分五批，每批 3 篇走同一条线</div>
+<div class="flow">
+  <div class="step"><div class="t">盘点弹药</div></div>
+  <div class="arr">→</div>
+  <div class="step"><div class="t">成稿<br>信源独立成节</div></div>
+  <div class="arr">→</div>
+  <div class="step hot"><div class="t">发布包<br>三件套</div></div>
+  <div class="arr">→</div>
+  <div class="step"><div class="t">机械门禁<br>脚本检查</div></div>
+  <div class="arr">→</div>
+  <div class="step hot"><div class="t">对抗审查<br>四角色挑刺</div></div>
+  <div class="arr">→</div>
+  <div class="step"><div class="t">建稿<br>入草稿箱</div></div>
+</div>
+<div class="note">每篇不是一个 Word，而是一个文件夹：导航 README + 过程 CHANGELOG + 开箱操作单。三个月后打开就知道这篇怎么来的。</div>
+<div class="foot">行途 · 发布工程化复盘</div>
+</body></html>
