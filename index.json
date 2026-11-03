@@ -2,7 +2,7 @@
   "repo": "xingtu-articles",
   "updated": "auto",
   "naming_rule": "articles/YYYY/MM/YYYY-MM-DD-<english-slug>.md；素材包 assets/YYYY/MM/<同名slug>/（cover.png=封面）",
-  "total": 47,
+  "total": 48,
   "articles": [
     {
       "date": "2026-04-15",
@@ -612,6 +612,18 @@
       "path": "articles/2026/10/2026-10-29-agent-daodi-shenme.md",
       "original": null,
       "prev": "articles/2026/10/2026-10-28-fde-fund-report.md",
+      "next": "articles/2026/10/2026-10-30-harness-standard-to-ai.md",
+      "related_repos": null
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Harness：不是把工作交给 AI，而是把做事标准交给 AI",
+      "summary": "你让 AI 写周报、做方案，它几分钟交差，你一看却不是要的。问题不在 AI 笨，在你没把“怎样算做好”说清楚——这篇用真实项目讲透：干活交给 AI，裁判必须留人手里。",
+      "category": "AI工程化",
+      "icon": "📌",
+      "path": "articles/2026/10/2026-10-30-harness-standard-to-ai.md",
+      "original": null,
+      "prev": "articles/2026/10/2026-10-29-agent-daodi-shenme.md",
       "next": null,
       "related_repos": null
     }
